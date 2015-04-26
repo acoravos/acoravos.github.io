@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<head>
+  <title>Technical Blog Post of Arrays and Hashes</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="your-stylesheet-link-here.css">
+</head>
+
+<main>
+  <h1>Arrays, Hashes, what are all of these Ruby collection and container objects?</h1>
+  <h2>A Week 3 Reflection</h2>
+  <h4>April 26, 2015</h4>
+
+  <section>
+    <p>
+        Let's start out by describing what an 'array' is versus a 'hash.' Arrays are an <i>ordered</i> collection of objects. David Black, in "The Well-Grounded Rubyist" notes that you "can select objects from the collection based on a consistent, consecutive numerical index."
+    </p>
+    <p>
+        For example, we could have an array that includes the meals in a day:
+    </p>
+
+    <p>
+        <code> meals = ["breakfast", "lunch", "dinner"]
+    </p>
+
+    <p>
+        The array because the array tracks the order of the items, we know that breakfast is the first object, lunch is the second, and dinner is the third.  If we wanted to call the second item in the <code>meals</code> array, we could call it by writing <code>meals[0]</code>. The first item in the array is always called via a 0. The next item is a 1, so <code>meals[1]</code> would return <code>lunch</code>.
+    <p>
+        In contrast, hashes do not necessarily have to be ordered. In fact, it was not possible to order a hash until more recent releases of Ruby. Hashes store objects in pairs, where each pair has a <i>key</i> and a <i>value</i>. Whereas, the ingredients in a fruit salad could be a hash. Each ingredient has it's own "size/amount" that needs to go in the salad, but it doesn't matter which order the items are assembled. Take for instance the following hash:
+    </p>
+    <p>
+        <code> tasty_fruit_salad = { "10" => "strawberries", "40" => "blueberries", "2" => apples}
+    </p>
+    <p>
+        The great benefit of a hash is that I don't need to remember which "order" the apples are in. I can find the number of apples I need by calling apples in the hash: <code>tasty_fruit_salad[apples]</code> which will return <code>2</code>.
+    </p>
+    <p>
+      Arrays and hashes are both powerful ways to store and manage data, and each has their own particular use cases.
+
+      <!-- copy and paste as many sections as you want to add paragraphs -->
+  </section>
+</main>
