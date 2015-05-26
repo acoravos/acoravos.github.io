@@ -1,0 +1,202 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Andrea Ruth Coravos</title>
+  <meta name="description" content="Andrea Coravos is off to a new adventure. Learning how to code.">
+  <meta name="keywords" content="Code, Design, Coravos, Dev Bootcamp, blogging" />
+
+  <link rel="stylesheet" href="/stylesheet.css">
+
+  <!--Fonts-->
+  <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Lora' rel='stylesheet' type='text/css'>
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <a class="site-title" href="/">Andrea Ruth Coravos</a>
+
+    <nav class="home--links">
+      <ul>
+        <li><a class="link-border" href="/blog">Blog</a></li>
+        <i class="fa fa-bolt"></i>
+        <li><a class="link-border" href="/about">About</a></li>
+      </ul>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="home">
+
+
+  <h2>Navigating the differences between JavaScript and Ruby</h2>
+  <h3>Ruby Loops vs. JavaScript Loops </h3>
+  <h4>May 25, 2015</h4>
+
+  <section>
+    <p>
+      Our cohort has spent the last four weeks learning Ruby and getting to know its powerful built-in methods. This week we switched to do an introduction to JavaScript, and it was an awakening.
+    </p>
+
+    <p>
+      Overall, my experience with JavaScript has been far clunkier than Ruby, and I found the syntax take more time to grasp. So today, I'm going to dig more into looping and show how it looks differet in Ruby vs. in JavaScript.
+    </p>
+
+    <p>
+      Here's a challenge: calculate 2 to the power of 10 (e.g., 2^10). Over the next few couple examples we'll walk through how to solve this challenge in both Ruby and JavaScript. For each language, we'll also look at solving it with a few different types of loops.
+   </p>
+      In Ruby, we can start by calculating it using a <code>times do</code> loop. We want to set the result at the beginning to 1. Effectively by the end we want to get 2x2x2x2x2x2x2x2x2x2. Here's the first way to set it up:
+   </p>
+
+   <p> <code>
+      result = 1
+      10.times do
+        result = result * 2
+      end
+
+      puts result
+      # => 1024
+      </code>
+    </p>
+
+    <p>
+      Perhaps, instead we want to caculate this using a <code>while</code> loop. This time we want to set our result and our <code>counter</code>. This modifier will continue to execute the code while the conditional is <i>true</i>/
+    </p>
+
+    <p><code>
+      result = 1
+      counter = 0
+
+      while counter < 10 do
+        result = result * 2
+        counter +=1
+      end
+
+      puts result
+      # => 1024
+    </code>
+    </p>
+
+    <p> Perhaps, instead of <code>while</code> we actually would like to use an <code>until</code> loop. This modifier will continue to execute the code while the conditional is <i>false</i>.
+    </p>
+
+    <p><code>
+      result = 1
+      counter = 0
+
+      until counter > 9 do
+        result = result * 2
+        counter +=1
+      end
+
+      puts result
+      # => 1024
+    </p></code>
+
+    <p>
+      Let's look at some of these examples in JavaScript. In the following example, we need to use a new set of syntax. In JS, you'll notice that the variable has to be explicitly called out. So "result = 1" will only work in Ruby. In JS, the parallel syntax must be "var result = 1". Additionally the while loop requires the conditional in parentheses, and then will perform the execution required in the curly brackets.
+    </p>
+
+    <p><code>
+      var result = 1;
+      var counter = 0;
+      while (counter < 10) {
+        result = result * 2;
+        counter +=1;
+      }
+      console.log(result);
+      // → 1024
+    </code></p>
+
+    <p>
+      Now let's try this using a <code>for</code> loop in JS. We still set the result in the beginning, but now we set the counter after the <code>for</code> construct. Of note, the parentheses after a <code>for</code> keyword must contain two semicolons. The first part initializes the loop by defining the variable. The second part checks whether the loop must continue (e.g., the conditional), and the final part updates the state of the loop after every interation.
+    </p>
+
+    <p><code>
+      var result = 1;
+      for (var counter = 0; counter < 10; counter += 1)
+        result = result * 2;
+      console.log(result);
+      // → 1024
+      </code>
+   </p>
+
+   <p> Of note, the <code>for</code> construct in JS generally is shorter and clearler than the <code>while</code> construct. But generally these looping functions in JS require more syntax than Ruby's powerful built-in methods.
+   </p>
+
+
+</div>
+
+        <div class="wrapper">
+  <div class="social-media-list">
+
+
+      <a href="https://github.com/acoravos" target="_blank" class="fa fa-github">
+      </a>
+
+
+
+      <a href="https://twitter.com/andreacoravos" target="_blank" class="fa fa-twitter-square">
+      </a>
+
+
+
+      <a href="https://instagram.com/coravos" target="_blank" class="fa fa-instagram">
+      </a>
+
+
+
+
+
+
+      <a href="https://linkedin.com/in/andreacoravos" target="_blank" class="fa fa-linkedin">
+      </a>
+
+
+  </div>
+</div>
+
+      </div>
+    </div>
+
+
+
+
+  </body>
+
+</html>
+
+<!-- <html>
+  <body>
+      Hello DBC! Welcome to ARC's website. w00t. w00t.
+  </body>
+</html> -->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-61799277-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
