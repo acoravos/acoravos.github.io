@@ -52,23 +52,23 @@
   <h4>May 25, 2015</h4>
 
   <section>
+
     <p align="left">
-    <p>
       Our cohort has spent the last four weeks learning Ruby and getting to know its powerful built-in methods. This week we switched to do an introduction to JavaScript, and it was an awakening.
     </p>
 
-    <p>
+    <p align="left">
       Overall, my experience with JavaScript has been far clunkier than Ruby, and I found the syntax take more time to grasp. So today, I'm going to dig more into looping and show how it looks differet in Ruby vs. in JavaScript.
     </p>
 
-    <p>
+    <p align="left">
       Here's a challenge: calculate 2 to the power of 10 (e.g., 2^10). Over the next few couple examples we'll walk through how to solve this challenge in both Ruby and JavaScript. For each language, we'll also look at solving it with a few different types of loops.
     </p>
-   </p>
+    <p align="left">
       In Ruby, we can start by calculating it using a <code>times do</code> loop. We want to set the result at the beginning to 1. Effectively by the end we want to get 2x2x2x2x2x2x2x2x2x2. Here's the first way to set it up:
-   </p>
+    </p>
 
-   <p> <code>
+   <p align="left"> <code>
       result = 1 <br/>
       10.times do <br/>
         result = result * 2 <br/>
@@ -79,11 +79,11 @@
       </code>
     </p>
 
-    <p>
+    <p align="left">
       Perhaps, instead we want to caculate this using a <code>while</code> loop. This time we want to set our result and our <code>counter</code>. This modifier will continue to execute the code while the conditional is <i>true</i>.
     </p>
 
-    <p><code>
+    <p align="left"><code>
       result = 1<br/>
       counter = 0<br/>
       <br/>
@@ -97,10 +97,10 @@
     </code>
     </p>
 
-    <p> Perhaps, instead of <code>while</code> we actually would like to use an <code>until</code> loop. This modifier will continue to execute the code while the conditional is <i>false</i>.
+    <p align="left"> Perhaps, instead of <code>while</code> we actually would like to use an <code>until</code> loop. This modifier will continue to execute the code while the conditional is <i>false</i>.
     </p>
 
-    <p><code>
+    <p align="left"><code>
       result = 1<br/>
       counter = 0<br/>
       <br/>
@@ -113,11 +113,11 @@
       # => 1024<br/>
     </p></code>
 
-    <p>
+    <p align="left">
       Let's look at some of these examples in JavaScript. In the following example, we need to use a new set of syntax. In JS, you'll notice that the variable has to be explicitly called out. So "result = 1" will only work in Ruby. In JS, the parallel syntax must be "var result = 1". Additionally the while loop requires the conditional in parentheses, and then will perform the execution required in the curly brackets.
     </p>
 
-    <p><code>
+    <p align="left"><code>
       var result = 1;<br/>
       var counter = 0;<br/>
       while (counter < 10) {<br/>
@@ -128,11 +128,11 @@
       // → 1024<br/>
     </code></p>
 
-    <p>
+    <p align="left">
       Now let's try this using a <code>for</code> loop in JS. We still set the result in the beginning, but now we set the counter after the <code>for</code> construct. Of note, the parentheses after a <code>for</code> keyword must contain two semicolons. The first part initializes the loop by defining the variable. The second part checks whether the loop must continue (e.g., the conditional), and the final part updates the state of the loop after every interation.
     </p>
 
-    <p><code>
+    <p align="left"><code>
       var result = 1;<br/>
       for (var counter = 0; counter < 10; counter += 1)
         result = result * 2;<br/>
@@ -141,7 +141,7 @@
       </code>
    </p>
 
-   <p> Of note, the <code>for</code> construct in JS generally is shorter and clearler than the <code>while</code> construct. But generally these looping functions in JS require more syntax than Ruby's powerful built-in methods.
+   <p align="left"> Of note, the <code>for</code> construct in JS generally is shorter and clearler than the <code>while</code> construct. But generally these looping functions in JS require more syntax than Ruby's powerful built-in methods.
    </p>
 </p>
 
