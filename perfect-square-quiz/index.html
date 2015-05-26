@@ -8,77 +8,61 @@
   <meta name="description" content="Solo Challenge: The Perfect Square Game">
   <meta name="author" content="Andrea Coravos">
 
-  <link rel="stylesheet" type="text/css" href="./stylesheets/default.css" />
+<!--   <link rel="stylesheet" type="text/css" href="./stylesheets/default.css" /> -->
 
-  <!-- <script src="./perfect-square-quiz/my_solution.js"></script> -->
+<!-- <script src="./perfect-square-quiz/my_solution.js"></script> -->
 
+<!-- PERFECT SQUARE QUIZ -->
 <SCRIPT LANGUAGE="JavaScript">
 
 <!-- Begin
 correct=0;
 wrong=0;
 
-function random(maxValue) { // this is a function I found to generate a random value
-  day= new Date();
-  hour= day.getHours();
-  min=day.getMinutes();
-  sec=day.getSeconds();
-  mili=day.getTime()
-  return(((hour*3600)+(min*60)+(sec)+mili) % maxValue);
+function random(maxValue) {
+  Math.floor((Math.random() * maxValue) + 1);
 }
 
 
 function ask() {
-if(document.quizform.arithmetic[0].checked)
-maxValue=5;
-else {
-if(document.quizform.arithmetic[1].checked)
-maxValue=12;
-else {
-maxValue=25;
-   }
-}
-square_root=random(maxValue);
-perfect_square=square_root * square_root;
-Answer=window.prompt(  "What is the square root of" + perfect_square + "?", "");
-playerAnswer();
+  if(document.quizform.arithmetic[0].checked)
+    maxValue=5;
+  else {
+    if(document.quizform.arithmetic[1].checked)
+      maxValue=12;
+    else {
+      maxValue=25;
+    }
+  }
+  square_root=random(maxValue);
+  perfect_square=square_root * square_root;
+  Answer=window.prompt(  "What is the square root of " + perfect_square + " ?", "");
+  playerAnswer();
 }
 
 
 function playerAnswer() {
-if (Answer == square_root) {
-correct++;
-msg = "Congratulations, your answer is correct.";
-}
-else {
-wrong++;
-msg = "Oops!  " + Answer + " is incorrect.\n\n"
-+ "The correct answer was " +square_root + ".";
-   }
-score = "" + ((correct / (correct + wrong)) * 100);
-score = score.substring(0,4) + "%";
-alert(msg + "\n\nYOUR SCORE:  " + score + "\n"
-+ correct + " correct\n"
-+ wrong + " incorrect")
-}
-
-function check() {
-if ((correct+wrong) != 0) {
-score = "" + ((correct / (correct + wrong)) * 100);
-score = score.substring(0,4) + "%";
-alert("YOUR SCORE:  " + score + "\n"
-+ correct + " correct\n"
-+ wrong + " incorrect")
-}
-else alert("You have not completed any exercises yet.");
+  if (Answer == square_root) {
+    correct++;
+    msg = "Congratulations, you identified the square root.";
+  }
+  else {
+    wrong++;
+    msg = "Alas,  " + Answer + " is incorrect.\n\n"
+    + "The correct answer was " +square_root + ".";
+  }
+  score = "" + ((correct / (correct + wrong)) * 100);
+  score = score.substring(0,2) + "%";
+  alert(msg + "\n\nYOUR SCORE:  " + score + "\n"
+  + correct + " correct\n"
+  + wrong + " incorrect")
 }
 
 </script>
-
 </head>
 
-<!-- PERFECT SQUARE QUIZ -->
-
+<!-- Display on webpage -->
+<body>
 
 <center>
 <b><font size="5">Can you name the square root of each perfect square?</font size></b>
@@ -91,11 +75,10 @@ else alert("You have not completed any exercises yet.");
 <br>
 <br>
 <input type=button value="Start Quiz" onClick="ask()">
-<input type=button value="Check Score" onClick="check()">
 <input type=button value="Reset Score" onClick="javascript:correct=0;wrong=0;">
 </form>
 </center>
 
-
 </body>
+
 </html>
