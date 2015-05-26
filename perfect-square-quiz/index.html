@@ -25,17 +25,17 @@ function random(maxValue) {
 
 function ask() {
   if(document.quizform.arithmetic[0].checked)
-    maxValue=5;
+    maxValue=12;
   else {
     if(document.quizform.arithmetic[1].checked)
-      maxValue=12;
+      maxValue=20;
     else {
-      maxValue=25;
+      maxValue=50;
     }
   }
   square_root=random(maxValue);
   perfect_square=square_root * square_root;
-  Answer=window.prompt(  "What is the square root of " + perfect_square + " ?", "");
+  Answer=window.prompt(  "What is the square root of " + perfect_square + "?", "");
   playerAnswer();
 }
 
