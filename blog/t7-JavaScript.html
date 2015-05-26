@@ -52,6 +52,7 @@
   <h4>May 25, 2015</h4>
 
   <section>
+    <p align="left">
     <p>
       Our cohort has spent the last four weeks learning Ruby and getting to know its powerful built-in methods. This week we switched to do an introduction to JavaScript, and it was an awakening.
     </p>
@@ -62,36 +63,37 @@
 
     <p>
       Here's a challenge: calculate 2 to the power of 10 (e.g., 2^10). Over the next few couple examples we'll walk through how to solve this challenge in both Ruby and JavaScript. For each language, we'll also look at solving it with a few different types of loops.
+    </p>
    </p>
       In Ruby, we can start by calculating it using a <code>times do</code> loop. We want to set the result at the beginning to 1. Effectively by the end we want to get 2x2x2x2x2x2x2x2x2x2. Here's the first way to set it up:
    </p>
 
    <p> <code>
-      result = 1
-      10.times do
-        result = result * 2
-      end
-
-      puts result
-      # => 1024
+      result = 1 <br/>
+      10.times do <br/>
+        result = result * 2 <br/>
+      end<br/>
+      <br/>
+      puts result<br/>
+      # => 1024<br/>
       </code>
     </p>
 
     <p>
-      Perhaps, instead we want to caculate this using a <code>while</code> loop. This time we want to set our result and our <code>counter</code>. This modifier will continue to execute the code while the conditional is <i>true</i>/
+      Perhaps, instead we want to caculate this using a <code>while</code> loop. This time we want to set our result and our <code>counter</code>. This modifier will continue to execute the code while the conditional is <i>true</i>.
     </p>
 
     <p><code>
-      result = 1
-      counter = 0
-
-      while counter < 10 do
-        result = result * 2
-        counter +=1
-      end
-
-      puts result
-      # => 1024
+      result = 1<br/>
+      counter = 0<br/>
+      <br/>
+      while counter < 10 do<br/>
+        result = result * 2<br/>
+        counter +=1<br/>
+      end<br/>
+      <br/>
+      puts result<br/>
+      # => 1024<br/>
     </code>
     </p>
 
@@ -99,16 +101,16 @@
     </p>
 
     <p><code>
-      result = 1
-      counter = 0
-
-      until counter > 9 do
-        result = result * 2
-        counter +=1
-      end
-
-      puts result
-      # => 1024
+      result = 1<br/>
+      counter = 0<br/>
+      <br/>
+      until counter > 9 do<br/>
+        result = result * 2<br/>
+        counter +=1<br/>
+      end<br/>
+      <br/>
+      puts result<br/>
+      # => 1024<br/>
     </p></code>
 
     <p>
@@ -116,14 +118,14 @@
     </p>
 
     <p><code>
-      var result = 1;
-      var counter = 0;
-      while (counter < 10) {
-        result = result * 2;
-        counter +=1;
-      }
-      console.log(result);
-      // → 1024
+      var result = 1;<br/>
+      var counter = 0;<br/>
+      while (counter < 10) {<br/>
+        result = result * 2;<br/>
+        counter +=1;<br/>
+      }<br/>
+      console.log(result);<br/>
+      // → 1024<br/>
     </code></p>
 
     <p>
@@ -131,17 +133,17 @@
     </p>
 
     <p><code>
-      var result = 1;
+      var result = 1;<br/>
       for (var counter = 0; counter < 10; counter += 1)
-        result = result * 2;
-      console.log(result);
-      // → 1024
+        result = result * 2;<br/>
+      console.log(result);<br/>
+      // → 1024<br/>
       </code>
    </p>
 
    <p> Of note, the <code>for</code> construct in JS generally is shorter and clearler than the <code>while</code> construct. But generally these looping functions in JS require more syntax than Ruby's powerful built-in methods.
    </p>
-
+</p>
 
 </div>
 
