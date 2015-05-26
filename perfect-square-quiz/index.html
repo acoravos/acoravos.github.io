@@ -51,7 +51,7 @@ function playerAnswer() {
     + "The correct answer was " +square_root + ".";
   }
   score = "" + ((correct / (correct + wrong)) * 100);
-  score = score.substring(0,2) + "%";
+  score = score.substring(0,4) + "%";
   alert(msg + "\n\nYOUR SCORE:  " + score + "\n"
   + correct + " correct\n"
   + wrong + " incorrect")
