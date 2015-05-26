@@ -20,9 +20,8 @@ correct=0;
 wrong=0;
 
 function random(maxValue) {
-  Math.floor((Math.random() * maxValue) + 1);
+  return Math.floor(Math.random() * (maxValue)) + 1;
 }
-
 
 function ask() {
   if(document.quizform.arithmetic[0].checked)
@@ -48,7 +47,7 @@ function playerAnswer() {
   }
   else {
     wrong++;
-    msg = "Alas,  " + Answer + " is incorrect.\n\n"
+    msg = "Alas, " + Answer + " is incorrect.\n\n"
     + "The correct answer was " +square_root + ".";
   }
   score = "" + ((correct / (correct + wrong)) * 100);
