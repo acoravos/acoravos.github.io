@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<head>
+  <title>Technical Blog Post for Enumerable Methods</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="your-stylesheet-link-here.css">
+</head>
+
+<main>
+  <h1>What is this map function and how do I use it?</h1>
+  <h2>A Week 4 Reflection</h2>
+  <h4>May 9, 2015</h4>
+
+  <section>
+    <p>
+        A <code> Module </code> in Ruby is a collection of <code> Methods </code> and <code> Constraints </code>. Think about modules as "libraries" which group together methods, classes and contraints. Methods are about functions, and you can use them across multiple items like classes. Classes on the otherhand, are more about "objects." Today, we'll dive into the <code> Enumerabe </code> module. The special features of the <code> Enumerable </code> module is that it provides a set of methods that traverse, search, sort and manipulate collections.
+    </p>
+    <p>
+        Plain English please? Let's walk through some examples
+    </p>
+
+    <p>
+        Let's say you have an array and you'd like to make some changes to it.
+
+        <code> array = [1,2,3] </code>
+
+        If you'd like to double all the elements in the array how could you do that? Well, the <code> Enumerable </code> module has a special method called <code> map </code> that let's you do just that.
+
+        Before we get into it, let's talk about a few other keywords. A "block" is a chunk of code overwhich you'd run a method. To identify the beginning of a block you'd use the Ruby keyword <code> do </code>. The method <code> Each </code> belongs to the array class and is an iterator. Which means that it will cycle through blocks fo code and will perform the the action requested on that element in the collection. Evey block of code that uses <code> Each </code> needs to close with an <code> end </code> so that Ruby knows to stop iterating.
+
+        Back to the doe. Let's say we want to double everything. We could do the following
+
+        <code> array = [1,2,3,4]
+          array.each do |element|
+          p element * 2
+        end </code>
+
+        This produces the following result:
+        <code>
+          2
+          4
+          6
+          8
+        </code>
+
+        And then if we ask for the array. It will show:
+        <code> array = [1,2,3,4] </code>
+        The original array has not been modified.
+
+        What if we want to transform the array but maintain it as an array rather than as individual outputs? We could use the map function.
+        array = [1,2,3,4]
+        new_array = array.map { |element| element*2  }
+        p new_array # => [2,4,6,8]
+        p array # => [1,2,3,4]
+
+
+        array = [1,2,3,4]
+        array.map! { |element| element*2  }
+        p array # => [2,4,6,8]
+
+        Using a destructive method <code> ! </code> helps us "re-write" the array itself and redefines it.
+
+
+
+
+
+
+        <code> meals = ["breakfast", "lunch", "dinner"] </code>
+    </p>
+
+    <p>
+        The array because the array tracks the order of the items, we know that breakfast is the first object, lunch is the second, and dinner is the third.  If we wanted to call the second item in the <code>meals</code> array, we could call it by writing <code>meals[0]</code>. The first item in the array is always called via a 0. The next item is a 1, so <code>meals[1]</code> would return <code>lunch</code>.
+    <p>
+        In contrast, hashes do not necessarily have to be ordered. In fact, it was not possible to order a hash until more recent releases of Ruby. Hashes store objects in pairs, where each pair has a <i>key</i> and a <i>value</i>. Whereas, the ingredients in a fruit salad could be a hash. Each ingredient has it's own "size/amount" that needs to go in the salad, but it doesn't matter which order the items are assembled. Take for instance the following hash:
+    </p>
+    <p>
+        <code> tasty_fruit_salad = { "10" => "strawberries", "40" => "blueberries", "2" => apples}
+    </p>
+    <p>
+        The great benefit of a hash is that I don't need to remember which "order" the apples are in. I can find the number of apples I need by calling apples in the hash: <code>tasty_fruit_salad[apples]</code> which will return <code>2</code>.
+    </p>
+    <p>
+      Arrays and hashes are both powerful ways to store and manage data, and each has their own particular use cases.
+
+      <!-- copy and paste as many sections as you want to add paragraphs -->
+  </section>
+</main>
