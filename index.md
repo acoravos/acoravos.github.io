@@ -18,7 +18,7 @@ I like finding things that make life better, and then scaling them so more peopl
 
 ##  What's getting my attention today
 
-* **Writing and Research** 📝 I'll be publishing a few pieces on selling SaaS into pharma and biotechs, public company M&A, investing in movies & Broadway, and more.
+* **Writing and Research** 📝 I'll be publishing a few pieces on selling SaaS into pharma and biotechs, public company M&A, investing in TV & Broadway, and more.
 * **Tinkering** 👾 I'm a big fan of side quests during sabbatical. Been playing around with LLMs, learning music, and writing comics.
 * **Angel investing** 💸 I've made 60+ angel investments. Some of my public investments are listed on [Crunchbase](https://www.crunchbase.com/discover/organizations/field/people/num_portfolio_organizations/andrea-coravos). 
 * **M&A advisory** 📈 I've been advising portfolio companies for the past 10 years. After we completed HumanFirst's public company transaction, I've been helping other founders navigate their M&A processes, focusing on lower to mid-market transactions (sub $250M) that boutique banks can't or won't do.
