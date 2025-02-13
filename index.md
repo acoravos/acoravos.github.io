@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Andy Coravos
-description: The Party is Now. Code. Design. Create. On a marvelous adventure.
+description: The party is now. On a marvelous adventure.
 ---
 <a href="https://scholar.google.com/citations?user=CeiPwnIAAAAJ&hl=en"><i class='fa fa-graduation-cap'></i></a>
 <a href="http://github.com/acoravos/"><i class='fa fa-github'></i></a>
@@ -12,16 +12,16 @@ description: The Party is Now. Code. Design. Create. On a marvelous adventure.
 
 I'm Andy Coravos, a founder, writer, and researcher interested in life sciences, the brain/mind, philosophy, poetry & metaphor, and more. 
 
-I co-founded HumanFirst, where I served as CEO for 7 years, unlocking better research for all humans, sooner. We sold the company to [ICON (NASDAQ: ICLR) in 2024](https://www.statnews.com/2024/02/29/icon-acquires-humanfirst-digital-tools-clinical-trials/). After launching the [Atlas platform](https://www.iconplc.com/solutions/outcome-measures/digital-health-technologies), I am taking a sabbatical.
+I co-founded HumanFirst, where I served as CEO for 7 years, unlocking better research for all humans, sooner. In 2024, we sold the company to [ICON (NASDAQ: ICLR)](https://www.statnews.com/2024/02/29/icon-acquires-humanfirst-digital-tools-clinical-trials/), launching the [Atlas platform](https://www.iconplc.com/solutions/outcome-measures/digital-health-technologies). I am now taking a sabbatical.
 
 I like finding things that make life better, and then scaling them so more people have access. Software and science is often the mechanism, but not always.
 
 ##  What's getting my attention today
 
-* **Writing and Research** 📝 I'll be publishing a few pieces on selling SaaS into pharma and biotechs, public company M&A, investing in TV & Broadway, and more.
-* **Tinkering** 👾 I'm a big fan of side quests during sabbatical. Been playing around with LLMs, learning music, and writing comics.
-* **Angel investing** 💸 I've made 60+ angel investments. Some of my public investments are listed on [Crunchbase](https://www.crunchbase.com/discover/organizations/field/people/num_portfolio_organizations/andrea-coravos). 
-* **M&A advisory** 📈 I've been advising portfolio companies for the past 10 years. After we completed HumanFirst's public company transaction, I've been helping other founders navigate their M&A processes, focusing on lower to mid-market transactions (sub $250M) that boutique banks can't or won't do.
+* 📝 **Writing and Research** // I'll be publishing a few pieces on selling SaaS into pharma and biotechs, public company M&A, investing in TV & Broadway, and more.
+* 👾 **Tinkering** // I'm a big fan of side quests during sabbatical. Been playing around with LLMs, learning music, and writing comics.
+* 💸 **Angel investing** // I've made 60+ angel investments. Some of my public investments are listed on [Crunchbase](https://www.crunchbase.com/discover/organizations/field/people/num_portfolio_organizations/andrea-coravos). 
+* 📈 **M&A advisory** // I've been advising portfolio companies for the past 10 years. After we completed HumanFirst's public company transaction, I've been helping other founders navigate their M&A processes, focusing on lower to mid-market transactions (sub $250M) that boutique banks can't or won't do.
 
 
 ## About
@@ -35,16 +35,8 @@ Before HumanFirst, I served as an [EIR at the FDA](https://rockhealth.com/create
 Before transitioning into engineering, I worked at KKR Capstone and McKinsey, where I focused on the healthcare, energy, and financial industries. Duke Grad. [Birder](https://bsky.app/profile/jay.bsky.team/post/3kpzw7iisxs24). Co-founded [CODE@HBS](https://codehbs.github.io/), the computer science and engineering organization at Harvard Business School. I have a not-so-secret obsession with all things Taylor Swift.
 
 ### Past Orgs and Projects
-* Co-founded and CEO of [HumanFirst](https://www.gohumanfirst.com/), which we [sold to ICON plc (NASDAQ: ICLR)](https://www.statnews.com/2024/02/29/icon-acquires-humanfirst-digital-tools-clinical-trials/), enabling precision measures in clinical research. _Press: [WSJ](https://www.wsj.com/articles/humanfirst-raises-12-million-11622547001), [Forbes](https://www.forbes.com/sites/greglicholai/2022/10/04/massive-digital-library-released-to-accelerate-clinical-research-and-cut-costs/?sh=1114691d7a50), [TechCrunch](https://techcrunch.com/2019/11/12/no-one-knows-how-effective-digital-therapies-are-but-a-new-tool-from-elektra-labs-aims-to-change-that/)._
 * Founding team at [Ummo](http://www.ummoapp.com/), a personalized speech coach. Public speaking is hard, [Ummo makes it easier](http://www.businessinsider.com/ummo-app-tracks-your-speech-2016-5). Showcased by the Apple App Store as The Top 3 "Apps We Love" in Spring 2016.
 * Former advisor to the [Biohacking Village at DEFCON](https://www.villageb.io/), and a proud supporter of [WeHeartHackers.org](https://wehearthackers.org/), a collaborative movement between the medical device and security researcher communities
-* With a few other entrepreneurs, we launched a side-project called [#MovingForward](https://wearemovingforward.github.io/), which highlights VCs committed to diverse, inclusive, and harassment-free workplaces. _Press: [WIRED](https://www.wired.co.uk/article/movingforward-sexism-vc-ellen-pao), [CNN](http://money.cnn.com/2018/03/08/technology/movingforward-tech-vc-harassment/index.html), [Recode](https://www.recode.net/2018/3/8/17094632/venture-capital-sexual-harassment-policies-moving-forward-directory), [Pando](https://pando.com/2018/03/08/beyond-metoo-new-initiative-movingforward-seeks-hold-newly-shaken-silicon-valley-accountable/), [Bloomberg](https://www.bloomberg.com/news/videos/2018-03-22/next-steps-for-movingforward-and-metoo-video), and [Institutional Investor](https://www.institutionalinvestor.com/article/b17hndr10zmwwb/venture-capital-has-a-%E2%80%98metoo%E2%80%99-problem-have-investors-been-ignoring-it)._
-
-
-### Angel Investing Process
-* **Step 1**: Send me an email; I'll review a deck, but a product I can play with is even better
-* **Step 2**: Zoom meeting (30 min or so)
-* **Step 3**: Asynchronous due diligence, and I'll let you know within 48 hours 💸
 
 ### Working Together
 Want to learn more about collaborating with me? Check out my [User Guide](https://docs.google.com/document/d/1Amp4UR39rl16XccfE3BvQTeYkiHwxKvCb5As1JcrNUI/edit).
@@ -68,10 +60,6 @@ I occasionally write at [blog.andreacoravos.com](http://blog.andreacoravos.com) 
 * The Harbus: [Who Said Harvard MBAs Don't Code?](http://www.harbus.org/2017/said-harvard-mbas-dont-code/) 2017.
 * HBS MBA Voices: [Interning As A Software Engineer While At Harvard Business School](http://www.hbs.edu/mba/blog/post/interning-as-a-software-engineer-at-hbs), 2016. 
 * HBS MBA Voices: [Meet the CODE Club](http://www.hbs.edu/mba/blog/post/meet-the-hbs-code-club), 2015.
-* [21 Blue Jaguars](http://bluejaguars.blogspot.com) (Est. 2007).
-* The Duke Chronicle: [Shotguns and shocks](http://www.dukechronicle.com/article/2008/06/shotguns-and-shocks), 2008.
-* The Duke Chronicle: [The water might have amoebas](http://www.dukechronicle.com/article/2008/06/water-might-have-amoebas), 2008.
-* The Duke Chronicle: [Duke's Grand Tour](http://www.dukechronicle.com/article/2008/05/dukes-grand-tour), 2008.
 
 ### Publications
 * Nature npj Digital Medicine: [An aligned framework of actively collected and passively monitored clinical outcome assessments (COAs) for measure selection](https://www.nature.com/articles/s41746-024-01068-x), 2024.
@@ -102,6 +90,9 @@ I occasionally write at [blog.andreacoravos.com](http://blog.andreacoravos.com) 
 * Tech Tonics: [Andy Coravos: Championing Responsible Digital Medicine](https://venturevalkyrie.com/new-tech-tonics-podcast-episode-andy-coravos-championing-responsible-digital-medicine/), 2019.
 
 ### Mentions
+* STAT News: [Icon acquires HumanFirst to boost support for digital tools in clinical trials](https://www.statnews.com/2024/02/29/icon-acquires-humanfirst-digital-tools-clinical-trials/), 2024.
+* Forbes: [Joy Is Next Frontier Of Precision Medicine](https://www.forbes.com/sites/greglicholai/2023/06/12/joy-is-next-frontier-of-precision-medicine/), 2023.
+* Forbes: [Massive Digital Library Released To Accelerate Clinical Research And Cut Costs](https://www.forbes.com/sites/greglicholai/2022/10/04/massive-digital-library-released-to-accelerate-clinical-research-and-cut-costs/), 2022.
 * Entrepreneur: [100 Women of Influence in 2022](https://www.entrepreneur.com/leadership/100-women-of-influence-in-2022/435872).
 * Fierce Healthcare and Fierce Medtech's [17 rising stars in health tech](https://www.fiercehealthcare.com/health-tech/rising-stars-health-tech), 2022.
 * The Economist: [Wearable devices measure a growing array of health indicators. They can detect a disease before it develops](https://www.economist.com/technology-quarterly/2022/05/02/wearable-devices-measure-a-growing-array-of-health-indicators), 2022.
