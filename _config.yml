@@ -1,0 +1,21 @@
+# Site settings
+title: Andy Coravos
+tag_text: Andy Coravos
+description: Digital Medicine. Code. Design. Question.
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
+
+# Google services
+google_analytics: G-SN83VPQTEX
+
+gems:
+  - jekyll-seo-tag
+
+plugins:
+  - jekyll-seo-tag
+
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
