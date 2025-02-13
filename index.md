@@ -18,7 +18,7 @@ I like finding things that make life better, and then scaling them so more peopl
 
 ##  What's getting my attention today
 
-* **Writing and Research** 📝 I'll be publishing a few pieces on selling into pharma, public company M&A, and more.
+* **Writing and Research** 📝 I'll be publishing a few pieces on selling SaaS into pharma and biotechs, public company M&A, investing in movies & Broadway, and more.
 * **Tinkering** 👾 I'm a big fan of side quests during sabbatical. Been playing around with LLMs, learning music, and writing comics.
 * **Angel investing** 💸 I've made 60+ angel investments. Some of my public investments are listed on [Crunchbase](https://www.crunchbase.com/discover/organizations/field/people/num_portfolio_organizations/andrea-coravos). 
 * **M&A advisory** 📈 I've been advising portfolio companies for the past 10 years. After we completed HumanFirst's public company transaction, I've been helping other founders navigate their M&A processes, focusing on lower to mid-market transactions (sub $250M) that boutique banks can't or won't do.
@@ -51,7 +51,7 @@ Want to learn more about collaborating with me? Check out my [User Guide](https:
 
 ### Writing
 I occasionally write at [blog.andreacoravos.com](http://blog.andreacoravos.com) and peer-reviewed manuscripts are on [Google Scholar](https://scholar.google.com/citations?user=CeiPwnIAAAAJ&hl=en). Also in these publications:
-* HumanFirst Blog: [Biometric remote patient monitoring: what most people aren’t talking about (yet)](https://medium.com/@AndreaCoravos/biometric-remote-patient-monitoring-what-most-people-arent-talking-about-yet-5afe2d90057a), 2022
+* HumanFirst Blog: [Biometric remote patient monitoring: what most people aren’t talking about (yet)](https://medium.com/@AndreaCoravos/biometric-remote-patient-monitoring-what-most-people-arent-talking-about-yet-5afe2d90057a), 2022.
 * Nature npj 'Behind the Paper': [Using connected sensor technologies to measure health at home](https://npjdigitalmedcommunity.nature.com/users/381590-andy-coravos/posts/64818-using-connected-sensor-technologies-to-measure-health-at-home), 2020. 
 * DiMe Blog: [Digital Health, Digital Medicine, Digital Therapeutics (DTx): What’s the difference?](https://medium.com/digital-medicine-society-dime/digital-health-digital-medicine-digital-therapeutics-dtx-whats-the-difference-92344420c4d5), 2019.
 * Quartz: [Treating algorithms like prescription drugs could reduce AI bias](https://qz.com/1540594/treating-algorithms-like-prescription-drugs-could-reduce-ai-bias/), 2019.
