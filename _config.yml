@@ -1,21 +1,27 @@
 # Site settings
 title: Andy Coravos
 tag_text: Andy Coravos
-description: Digital Medicine. Code. Design. Question.
+description: The party is now. On a marvelous adventure.
+url: "https://andreacoravos.com"  # Use your custom domain instead of GitHub Pages URL
+baseurl: ""  # Should remain empty for GitHub Pages custom domains
 
 # Build settings
 markdown: kramdown
-exclude: ["README.md"]
 sass:
   style: compressed
 
 # Google services
 google_analytics: G-SN83VPQTEX
 
-gems:
-  - jekyll-seo-tag
-
+# Plugins
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap  # Added to generate sitemap.xml
 
-exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
+# Exclude unnecessary files
+exclude:
+  - README.md
+  - config.ru
+  - Gemfile
+  - Gemfile.lock
+  - vendor
