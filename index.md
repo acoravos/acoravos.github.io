@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Andy Coravos
+title: Andrea R. Coravos
 description: The party is now. On a marvelous adventure.
 ---
 <a href="https://scholar.google.com/citations?user=CeiPwnIAAAAJ&hl=en"><i class='fa fa-graduation-cap'></i></a>
@@ -10,18 +10,19 @@ description: The party is now. On a marvelous adventure.
 <a href="https://bsky.app/profile/arc.bsky.social"><i class='fa fa-cloud'></i></a>
 <a href="http://www.twitter.com/andreacoravos"><i class='fa fa-twitter'></i></a>
 
-I'm Andy Coravos, a founder, writer, and researcher interested in life sciences, the brain/mind, philosophy, poetry & metaphor, and more. 
+Hi, I'm Andy. I build, write, and research at the edge of science, philosophy, and the mind. 
 
 I co-founded HumanFirst, where I served as CEO for 7 years, unlocking better research for all humans, sooner. In 2024, we sold the company to [ICON (NASDAQ: ICLR)](https://www.statnews.com/2024/02/29/icon-acquires-humanfirst-digital-tools-clinical-trials/), launching the [Atlas platform](https://www.iconplc.com/solutions/outcome-measures/digital-health-technologies). I am now taking a sabbatical.
 
-I like finding things that make life better, and then scaling them so more people have access. Software and science is often the mechanism, but not always.
+I like finding things that make life better, and then scaling them so more people have access. Software and science are often the mechanism, but not always.
 
 ##  What's getting my attention today
 
-* 📝 **Writing and Research** // I'll be publishing a few pieces on selling SaaS into pharma and biotechs, public company M&A, investing in TV & Broadway, and more.
-* 👾 **Tinkering** // I'm a big fan of side quests during sabbatical. Been playing around with LLMs, learning music, and writing comics.
-* 💸 **Angel investing** // I've made 60+ angel investments. Some of my public investments are listed on [Crunchbase](https://www.crunchbase.com/discover/organizations/field/people/num_portfolio_organizations/andrea-coravos). 
 * 📈 **M&A advisory** // I've been advising portfolio companies for the past 10 years. After we completed HumanFirst's public company transaction, I've been helping other founders navigate their M&A processes, focusing on lower to mid-market transactions (sub $250M) that boutique banks can't or won't do.
+* 💸 **Angel investing** // I've made 60+ angel investments. Some of my public investments are listed on [Crunchbase](https://www.crunchbase.com/discover/organizations/field/people/num_portfolio_organizations/andrea-coravos). 
+* 📝 **Writing and Research** // I'll be publishing a few pieces on selling software to pharma and biotechs, public company M&A, investing in Broadway & film, and more.
+* 👾 **Tinkering** // I'm a big fan of side quests during sabbatical. Been playing around with LLMs, learning music, and writing comics.
+
 
 
 ## About
@@ -32,7 +33,9 @@ For the past 9 years, I've served on the Board of Directors of [VisionSpring](ht
 
 Before HumanFirst, I served as an [EIR at the FDA](https://rockhealth.com/create-meaningful-change-in-healthcare-serve-a-tour-of-duty-in-government/) in the Digital Health Unit, and before that, a software engineer at [Instacart](https://tech.instacart.com/our-first-engineering-intern/) and [Akili Interactive](http://www.akiliinteractive.com/), a leader in digital medicine and developer of the [first FDA-cleared video game](https://www.fda.gov/news-events/press-announcements/fda-permits-marketing-first-game-based-digital-therapeutic-improve-attention-function-children-adhd). 
 
-Before transitioning into engineering, I worked at KKR Capstone and McKinsey, where I focused on the healthcare, energy, and financial industries. Duke Grad. [Birder](https://bsky.app/profile/jay.bsky.team/post/3kpzw7iisxs24). Co-founded [CODE@HBS](https://codehbs.github.io/), the computer science and engineering organization at Harvard Business School. I have a not-so-secret obsession with all things Taylor Swift.
+Before transitioning into engineering, I worked at KKR Capstone and McKinsey, where I focused on the healthcare, energy, and financial industries. Duke Grad. [Birder](https://bsky.app/profile/jay.bsky.team/post/3kpzw7iisxs24). Co-founded [CODE@HBS](https://codehbs.github.io/), the computer science and engineering organization at Harvard Business School. 
+
+My all-time favorite podcast is John O'Donohue and Krista Tippett's conversation on [The Inner Landscape of Beauty](https://onbeing.org/programs/john-odonohue-the-inner-landscape-of-beauty/).
 
 ### Past Orgs and Projects
 * Founding team at [Ummo](http://www.ummoapp.com/), a personalized speech coach. Public speaking is hard, [Ummo makes it easier](http://www.businessinsider.com/ummo-app-tracks-your-speech-2016-5). Showcased by the Apple App Store as The Top 3 "Apps We Love" in Spring 2016.
@@ -43,9 +46,10 @@ Want to learn more about collaborating with me? Check out my [User Guide](https:
 
 ### Writing
 I occasionally write at [blog.andreacoravos.com](http://blog.andreacoravos.com) and peer-reviewed manuscripts are on [Google Scholar](https://scholar.google.com/citations?user=CeiPwnIAAAAJ&hl=en). Also in these publications:
+* Astera Institute: [The Early Stage Go-To-Market Handbook: Selling software to pharma and biotech companies](https://astera.org/pharma-sales-handbook/), 2025.
+* The Neurotech Compendium: [Reflections from the Frontier](https://blog.andreacoravos.com/the-neurotech-compendium-reflections-from-the-frontier-8fb043c9e9d9), 2017-25.
 * HumanFirst Blog: [Biometric remote patient monitoring: what most people aren’t talking about (yet)](https://medium.com/@AndreaCoravos/biometric-remote-patient-monitoring-what-most-people-arent-talking-about-yet-5afe2d90057a), 2022.
 * Nature npj 'Behind the Paper': [Using connected sensor technologies to measure health at home](https://npjdigitalmedcommunity.nature.com/users/381590-andy-coravos/posts/64818-using-connected-sensor-technologies-to-measure-health-at-home), 2020. 
-* DiMe Blog: [Digital Health, Digital Medicine, Digital Therapeutics (DTx): What’s the difference?](https://medium.com/digital-medicine-society-dime/digital-health-digital-medicine-digital-therapeutics-dtx-whats-the-difference-92344420c4d5), 2019.
 * Quartz: [Treating algorithms like prescription drugs could reduce AI bias](https://qz.com/1540594/treating-algorithms-like-prescription-drugs-could-reduce-ai-bias/), 2019.
 * WIRED: [Digital Medicine: The doctor prescribes video games and virtual reality rehab](https://www.wired.com/story/prescription-video-games-and-vr-rehab/), 2018.
 * STAT News: [Blockchains for biomedicine and health care are coming. Buyer: be informed](https://www.statnews.com/2018/07/25/blockchains-biomedicine-health-care-buyer-be-informed/), 2018.
@@ -61,7 +65,7 @@ I occasionally write at [blog.andreacoravos.com](http://blog.andreacoravos.com) 
 * HBS MBA Voices: [Interning As A Software Engineer While At Harvard Business School](http://www.hbs.edu/mba/blog/post/interning-as-a-software-engineer-at-hbs), 2016. 
 * HBS MBA Voices: [Meet the CODE Club](http://www.hbs.edu/mba/blog/post/meet-the-hbs-code-club), 2015.
 
-### Publications
+### Peer-Reviewed Publications
 * Nature npj Digital Medicine: [An aligned framework of actively collected and passively monitored clinical outcome assessments (COAs) for measure selection](https://www.nature.com/articles/s41746-024-01068-x), 2024.
 * The Lancet Digital Health:[Remote digital health technologies for improving the care of people with respiratory disorders](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00248-0/fulltext), 2024.
 * Nature npj Digital Medicine: [Building resilient medical technology supply chains with a software bill of materials](https://www.nature.com/articles/s41746-021-00403-w), 2021.
@@ -121,7 +125,7 @@ I occasionally write at [blog.andreacoravos.com](http://blog.andreacoravos.com) 
 * BostInno: [Startup Lockdown is a Spring Break Student Accelerator](http://bostinno.streetwise.co/2016/03/15/hbs-startup-lockdown-is-a-spring-break-student-accelerator/), 2016.
 * VentureFizz [HBS Students Give Up Spring Break to Lock in Startup Concepts](http://venturefizz.com/blog/hbs-students-give-spring-break-lock-startup-concepts), 2016.
 
-Still reading? Say "hello" on [Twitter](http://www.twitter.com/andreacoravos).
+Still reading? Say "hello" on [Bluesky](https://bsky.app/profile/arc.bsky.social) or [Twitter](http://www.twitter.com/andreacoravos).
 
 
 Powered by [Jekyll](https://jekyllrb.com/). [Solo](http://chibicode.github.io/solo) theme.
