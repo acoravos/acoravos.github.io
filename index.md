@@ -10,11 +10,11 @@ description: The party is now. On a marvelous adventure.
 <a href="https://bsky.app/profile/arc.bsky.social"><i class='fa fa-cloud'></i></a>
 <a href="http://www.twitter.com/andreacoravos"><i class='fa fa-twitter'></i></a>
 
-Hi, I'm Andy. I build, write, and research at the edge of science, philosophy, and the mind. 
+Hi, I'm Andy. I build, write, and research at the edge of the humanities and science.
+
+I like finding things that make life better, and then scaling them so more people have access. Software is often the mechanism, but not always.
 
 I co-founded HumanFirst, where I served as CEO for 7 years, unlocking better research for all humans, sooner. In 2024, we sold the company to [ICON (NASDAQ: ICLR)](https://www.statnews.com/2024/02/29/icon-acquires-humanfirst-digital-tools-clinical-trials/), launching the [Atlas platform](https://www.iconplc.com/solutions/outcome-measures/digital-health-technologies). I am now taking a sabbatical.
-
-I like finding things that make life better, and then scaling them so more people have access. Software and science are often the mechanism, but not always.
 
 ##  What's getting my attention today
 
