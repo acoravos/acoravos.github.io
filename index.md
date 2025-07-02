@@ -46,6 +46,7 @@ Want to learn more about collaborating with me? Check out my [User Guide](https:
 
 ### Writing
 I occasionally write at [blog.andreacoravos.com](http://blog.andreacoravos.com) and peer-reviewed manuscripts are on [Google Scholar](https://scholar.google.com/citations?user=CeiPwnIAAAAJ&hl=en). Also in these publications:
+* Astera Institute: [Inside baseball: The founder’s guide to funding health and science organizations](https://astera.org/inside-baseball-the-founders-guide-to-funding-health-and-science-organizations/), 2025.
 * Astera Institute: [The Early Stage Go-To-Market Handbook: Selling software to pharma and biotech companies](https://astera.org/pharma-sales-handbook/), 2025.
 * The Neurotech Compendium: [Reflections from the Frontier](https://blog.andreacoravos.com/the-neurotech-compendium-reflections-from-the-frontier-8fb043c9e9d9), 2017-25.
 * HumanFirst Blog: [Biometric remote patient monitoring: what most people aren’t talking about (yet)](https://medium.com/@AndreaCoravos/biometric-remote-patient-monitoring-what-most-people-arent-talking-about-yet-5afe2d90057a), 2022.
