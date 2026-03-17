@@ -14,24 +14,21 @@ Hi, I'm Andy. I build, write, and research at the edge of the humanities and sci
 
 I like finding things that make life better, and then scaling them so more people have access. Software is often the mechanism, but not always.
 
-I co-founded HumanFirst, where I served as CEO for 7 years, unlocking better research for all humans, sooner. In 2024, we sold the company to [ICON (NASDAQ: ICLR)](https://www.statnews.com/2024/02/29/icon-acquires-humanfirst-digital-tools-clinical-trials/), launching the [Atlas platform](https://www.iconplc.com/solutions/outcome-measures/digital-health-technologies). I am now taking a sabbatical.
+I co-founded HumanFirst, where I served as CEO for 7 years, unlocking better research for all humans, sooner. In 2024, we sold the company to [ICON (NASDAQ: ICLR)](https://www.statnews.com/2024/02/29/icon-acquires-humanfirst-digital-tools-clinical-trials/), launching the [Atlas platform](https://www.iconplc.com/solutions/outcome-measures/digital-health-technologies). Now I run Grey Heron Global.
 
 ##  What's getting my attention today
 
-* 📈 **M&A advisory** // I've been advising portfolio companies for the past 10 years. After we completed HumanFirst's public company transaction, I've been helping other founders navigate their M&A processes, focusing on lower to mid-market transactions (sub $250M) that boutique banks can't or won't do.
-* 💸 **Angel investing** // I've made 60+ angel investments. Some of my public investments are listed on [Crunchbase](https://www.crunchbase.com/discover/organizations/field/people/num_portfolio_organizations/andrea-coravos). 
-* 📝 **Writing and Research** // I'll be publishing a few pieces on selling software to pharma and biotechs, public company M&A, investing in Broadway & film, and more.
-* 👾 **Tinkering** // I'm a big fan of side quests during sabbatical. Been playing around with LLMs, learning music, and writing comics.
-
-
+* 📈 **Grey Heron Global** // Strategic advisory for founders, funds, and research orgs. Recent work includes two open-access handbooks with [Astera Institute](https://astera.org/inside-baseball-the-founders-guide-to-funding-health-and-science-organizations/), venture scouting, and helping founders navigate acquisitions.
+* 💸 **Angel investing** // I've made 85+ angel investments across tech, life sciences, Broadway, and film. Some of my public investments are listed on [Crunchbase](https://www.crunchbase.com/discover/organizations/field/people/num_portfolio_organizations/andrea-coravos).
+* 👾 **Tinkering** // Enjoying my AI-powered jetpack. Recent builds include a DIY medical billing advocate (from my own FHIR insurance claims data) and a few other projects across cybersecurity and storytelling I'll be writing about soon. Also learning music and writing comics.
 
 ## About
 
-While on sabbatical, I split my time between Dublin, Ireland and Brooklyn, NY. 
+New York City is home base, though you'll often find me in Dublin, Ireland. 
 
-For the past 9 years, I've served on the Board of Directors of [VisionSpring](http://www.visionspring.org). Every year, we help hundreds of thousands of people get access to quality eye care.
+I served on the Board of Directors of [VisionSpring](http://www.visionspring.org) for 10 years, helping hundreds of thousands of people get access to quality eye care.
 
-Before HumanFirst, I served as an [EIR at the FDA](https://rockhealth.com/create-meaningful-change-in-healthcare-serve-a-tour-of-duty-in-government/) in the Digital Health Unit, and before that, a software engineer at [Instacart](https://tech.instacart.com/our-first-engineering-intern/) and [Akili Interactive](http://www.akiliinteractive.com/), a leader in digital medicine and developer of the [first FDA-cleared video game](https://www.fda.gov/news-events/press-announcements/fda-permits-marketing-first-game-based-digital-therapeutic-improve-attention-function-children-adhd). 
+Before HumanFirst, I served as an [EIR at the FDA](https://rockhealth.com/create-meaningful-change-in-healthcare-serve-a-tour-of-duty-in-government/) in the Digital Health Unit, and before that, a software engineer at [Instacart](https://tech.instacart.com/our-first-engineering-intern/) and [Akili Interactive](http://www.akiliinteractive.com/), the developer of the [first FDA-cleared video game](https://www.fda.gov/news-events/press-announcements/fda-permits-marketing-first-game-based-digital-therapeutic-improve-attention-function-children-adhd). 
 
 Before transitioning into engineering, I worked at KKR Capstone and McKinsey, where I focused on the healthcare, energy, and financial industries. Duke Grad. [Birder](https://bsky.app/profile/jay.bsky.team/post/3kpzw7iisxs24). Co-founded [CODE@HBS](https://codehbs.github.io/), the computer science and engineering organization at Harvard Business School. 
 
