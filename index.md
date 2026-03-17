@@ -14,20 +14,19 @@ Hi, I'm Andy. I build, write, and research at the edge of the humanities and sci
 
 I like finding things that make life better, and then scaling them so more people have access. Software is often the mechanism, but not always.
 
-I co-founded HumanFirst, where I served as CEO for 7 years, unlocking better research for all humans, sooner. In 2024, we sold the company to [ICON (NASDAQ: ICLR)](https://www.statnews.com/2024/02/29/icon-acquires-humanfirst-digital-tools-clinical-trials/), launching the [Atlas platform](https://www.iconplc.com/solutions/outcome-measures/digital-health-technologies). I am now taking a sabbatical.
+I co-founded HumanFirst, where I served as CEO for 7 years, unlocking better research for all humans, sooner. In 2024, we sold the company to [ICON (NASDAQ: ICLR)](https://www.statnews.com/2024/02/29/icon-acquires-humanfirst-digital-tools-clinical-trials/), launching the [Atlas platform](https://www.iconplc.com/solutions/outcome-measures/digital-health-technologies). Now I run Grey Heron Global.
 
 ##  What's getting my attention today
 
-* 📈 **M&A advisory** // I've been advising portfolio companies for the past 10 years. After we completed HumanFirst's public company transaction, I've been helping other founders navigate their M&A processes, focusing on lower to mid-market transactions (sub $250M) that boutique banks can't or won't do.
-* 💸 **Angel investing** // I've made 60+ angel investments. Some of my public investments are listed on [Crunchbase](https://www.crunchbase.com/discover/organizations/field/people/num_portfolio_organizations/andrea-coravos). 
-* 📝 **Writing and Research** // I'll be publishing a few pieces on selling software to pharma and biotechs, public company M&A, investing in Broadway & film, and more.
-* 👾 **Tinkering** // I'm a big fan of side quests during sabbatical. Been playing around with LLMs, learning music, and writing comics.
+* 📈 **Grey Heron Global** // Advising founders, funds, and research orgs on growth strategy, M&A, and AI adoption. Recent work includes two 50+ page open-access handbooks with Astera Institute ([one on GTM in pharma/biotech](https://astera.org/pharma-sales-handbook/), [one on funding science orgs](https://astera.org/inside-baseball-the-founders-guide-to-funding-health-and-science-organizations/)), venture scouting for early-stage AI companies, and helping founders navigate acquisitions. I love empowering people to build what only exists in their minds.
+* 💸 **Angel investing** // I've made 85+ angel investments across tech, life sciences, Broadway, and film. Some of my public investments are listed on [Crunchbase](https://www.crunchbase.com/discover/organizations/field/people/num_portfolio_organizations/andrea-coravos).
+* 👾 **Tinkering** // Enjoying my AI-powered jetpack. Recent builds include a DIY medical billing advocate (from my own FHIR insurance claims data) and a few other projects I'll be writing about soon. Also learning music and writing comics.
 
 
 
 ## About
 
-While on sabbatical, I split my time between Dublin, Ireland and Brooklyn, NY. 
+Based in New York City, with a foot still in Dublin, Ireland. 
 
 For the past 9 years, I've served on the Board of Directors of [VisionSpring](http://www.visionspring.org). Every year, we help hundreds of thousands of people get access to quality eye care.
 
