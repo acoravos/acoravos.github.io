@@ -18,19 +18,17 @@ I co-founded HumanFirst, where I served as CEO for 7 years, unlocking better res
 
 ##  What's getting my attention today
 
-* 📈 **Grey Heron Global** // Advising founders, funds, and research orgs on growth strategy, M&A, and AI adoption. Recent work includes two 50+ page open-access handbooks with Astera Institute ([one on GTM in pharma/biotech](https://astera.org/pharma-sales-handbook/), [one on funding science orgs](https://astera.org/inside-baseball-the-founders-guide-to-funding-health-and-science-organizations/)), venture scouting for early-stage AI companies, and helping founders navigate acquisitions. I love empowering people to build what only exists in their minds.
+* 📈 **Grey Heron Global** // Strategic advisory for founders, funds, and research orgs. Recent work includes two open-access handbooks with [Astera Institute](https://astera.org/inside-baseball-the-founders-guide-to-funding-health-and-science-organizations/), venture scouting, and helping founders navigate acquisitions.
 * 💸 **Angel investing** // I've made 85+ angel investments across tech, life sciences, Broadway, and film. Some of my public investments are listed on [Crunchbase](https://www.crunchbase.com/discover/organizations/field/people/num_portfolio_organizations/andrea-coravos).
-* 👾 **Tinkering** // Enjoying my AI-powered jetpack. Recent builds include a DIY medical billing advocate (from my own FHIR insurance claims data) and a few other projects I'll be writing about soon. Also learning music and writing comics.
-
-
+* 👾 **Tinkering** // Enjoying my AI-powered jetpack. Recent builds include a DIY medical billing advocate (from my own FHIR insurance claims data) and a few other projects across cybersecurity and storytelling I'll be writing about soon. Also learning music and writing comics.
 
 ## About
 
-Based in New York City, with a foot still in Dublin, Ireland. 
+New York City is home base, though you'll often find me in Dublin, Ireland. 
 
-For the past 9 years, I've served on the Board of Directors of [VisionSpring](http://www.visionspring.org). Every year, we help hundreds of thousands of people get access to quality eye care.
+I served on the Board of Directors of [VisionSpring](http://www.visionspring.org) for 10 years, helping hundreds of thousands of people get access to quality eye care.
 
-Before HumanFirst, I served as an [EIR at the FDA](https://rockhealth.com/create-meaningful-change-in-healthcare-serve-a-tour-of-duty-in-government/) in the Digital Health Unit, and before that, a software engineer at [Instacart](https://tech.instacart.com/our-first-engineering-intern/) and [Akili Interactive](http://www.akiliinteractive.com/), a leader in digital medicine and developer of the [first FDA-cleared video game](https://www.fda.gov/news-events/press-announcements/fda-permits-marketing-first-game-based-digital-therapeutic-improve-attention-function-children-adhd). 
+Before HumanFirst, I served as an [EIR at the FDA](https://rockhealth.com/create-meaningful-change-in-healthcare-serve-a-tour-of-duty-in-government/) in the Digital Health Unit, and before that, a software engineer at [Instacart](https://tech.instacart.com/our-first-engineering-intern/) and [Akili Interactive](http://www.akiliinteractive.com/), the developer of the [first FDA-cleared video game](https://www.fda.gov/news-events/press-announcements/fda-permits-marketing-first-game-based-digital-therapeutic-improve-attention-function-children-adhd). 
 
 Before transitioning into engineering, I worked at KKR Capstone and McKinsey, where I focused on the healthcare, energy, and financial industries. Duke Grad. [Birder](https://bsky.app/profile/jay.bsky.team/post/3kpzw7iisxs24). Co-founded [CODE@HBS](https://codehbs.github.io/), the computer science and engineering organization at Harvard Business School. 
 
