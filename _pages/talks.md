@@ -2,7 +2,7 @@
 layout: page
 permalink: /talks/
 title: talks & press
-description: Podcasts, classes, and mentions.
+description: Podcasts, classes, and mentions
 nav: true
 nav_order: 6
 ---

@@ -2,7 +2,7 @@
 layout: page
 permalink: /writing/
 title: writing
-description: I occasionally write at <a href='https://blog.andreacoravos.com'>blog.andreacoravos.com</a>. Peer-reviewed manuscripts are <a href='/publications/'>over here</a>.
+description: I occasionally write at <a href='https://blog.andreacoravos.com'>blog.andreacoravos.com</a>. Peer-reviewed manuscripts are <a href='/publications/'>over here</a>
 nav: true
 nav_order: 3
 ---

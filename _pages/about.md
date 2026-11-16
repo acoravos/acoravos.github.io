@@ -26,14 +26,14 @@ Hi, I'm Andy. I research, build, and fund things at the edge of science and the 
 
 I co-founded HumanFirst and served as CEO for seven years, building the infrastructure for measuring health with digital tools in clinical research. In 2024 we sold the company to [ICON](https://www.statnews.com/2024/02/29/icon-acquires-humanfirst-digital-tools-clinical-trials/) (NASDAQ: ICLR).
 
-I live in Brooklyn, though you'll often find me in Ireland or the UK.
+I live in Brooklyn, though you'll often find me in Dublin and London.
 
 **What I'm working on now**
 
-- **Venture Partner at [Pillar VC](https://www.pillar.vc/).** Backing and building companies in brain health and neurotech, frontier hardware, women's health, and longevity. I'm hiring a venture associate in the UK to work with me.
-- **Angel investing.** About 85 companies over twelve years, plus a handful of funds. See [investing](/investments/).
-- **Research and writing.** [Peer-reviewed work](/publications/) and [essays, handbooks and field notes](/writing/), including two open-access handbooks with the [Astera Institute](https://astera.org/inside-baseball-the-founders-guide-to-funding-health-and-science-organizations/).
-- **Making things.** Photography, comics, and music. See [projects](/projects/).
+- **Venture Partner at [Pillar VC](https://www.pillar.vc/).** Backing and building companies in brain health and neurotech, frontier hardware, women's health, and longevity. I'm hiring a venture associate in the UK to work with me
+- **Angel investing.** About 85 companies over twelve years, plus a handful of funds. See [investing](/investments/)
+- **Research and writing.** [Peer-reviewed work](/publications/) and [essays, handbooks and field notes](/writing/), including two open-access handbooks with the [Astera Institute](https://astera.org/inside-baseball-the-founders-guide-to-funding-health-and-science-organizations/)
+- **Making things.** Photography, comics, and music. See [projects](/projects/)
 
 **Working together.** Want to learn more about collaborating with me? Check out my [User Guide](https://docs.google.com/document/d/1Amp4UR39rl16XccfE3BvQTeYkiHwxKvCb5As1JcrNUI/edit).
 

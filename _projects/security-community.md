@@ -3,7 +3,7 @@ layout: page
 title: Biohacking Village
 # No links in this description: the theme wraps the whole card in an <a>, and a
 # nested anchor is invalid HTML — browsers merge the two into one click target.
-description: Advisor to the Biohacking Village at DEFCON, and a proud supporter of WeHeartHackers.org, a collaborative movement between the medical device and security researcher communities.
+description: Advisor to the Biohacking Village at DEFCON, and a proud supporter of WeHeartHackers.org, a collaborative movement between the medical device and security researcher communities
 importance: 3
 category: past
 img: assets/img/projects/biohacking.png

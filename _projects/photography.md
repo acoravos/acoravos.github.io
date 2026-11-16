@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Photography
-description: I love how photographers see the world. Been taking photos since I was little, and I promise to share more in the next few months.
+description: I love how photographers see the world. Been taking photos since I was little, and I promise to share more in the next few months
 importance: 1
 category: present
 img: assets/img/photography.jpg

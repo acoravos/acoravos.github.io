@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CODE@HBS
-description: Co-founded CODE@HBS, the computer science and engineering organization at Harvard Business School.
+description: Co-founded CODE@HBS, the computer science and engineering organization at Harvard Business School
 importance: 2
 category: past
 img: assets/img/projects/codehbs.jpg

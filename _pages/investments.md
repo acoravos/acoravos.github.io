@@ -15,7 +15,7 @@ nav_order: 5
 
 ### Advising
 
-<p class="list-note">Year shown is when I started.</p>
+<p class="list-note">Year shown is when I started</p>
 
 <ul class="entry-list">
   {% for item in site.data.investments.advising %}
@@ -32,7 +32,7 @@ nav_order: 5
 
 ### Companies
 
-<p class="list-note">A partial list, as not every investment is public. See more details on <a href="https://www.crunchbase.com/person/andrea-coravos" target="_blank" rel="noopener">Crunchbase</a>.</p>
+<p class="list-note">A partial list as not every investment I've made is public. See more details on <a href="https://www.crunchbase.com/person/andrea-coravos" target="_blank" rel="noopener">Crunchbase</a></p>
 
 <ul class="entry-list columns">
   {% for item in site.data.investments.backed %}
@@ -52,23 +52,6 @@ nav_order: 5
 </ul>
 {% endif %}
 
-{% if site.data.investments.arts and site.data.investments.arts.size > 0 %}
-
-### Arts
-
-<p class="list-note">Mostly grants rather than equity. <a href="/writing/">I've written about why</a>.</p>
-
-<ul class="entry-list">
-  {% for item in site.data.investments.arts %}
-    <li>
-      <span class="entry-name">{% if item.url %}<a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.name }}</a>{% else %}{{ item.name }}{% endif %}</span>
-      {% if item.year %}<span class="entry-year">{{ item.year }}</span>{% endif %}
-      {% if item.note %}<span class="entry-note">{{ item.note }}</span>{% endif %}
-    </li>
-  {% endfor %}
-</ul>
-{% endif %}
-
 {% if site.data.investments.funds and site.data.investments.funds.size > 0 %}
 
 ### Funds
@@ -77,6 +60,23 @@ nav_order: 5
   {% for item in site.data.investments.funds %}
     <li>
       <span class="entry-name">{% if item.url %}<a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.name }}</a>{% else %}{{ item.name }}{% endif %}</span>
+    </li>
+  {% endfor %}
+</ul>
+{% endif %}
+
+{% if site.data.investments.arts and site.data.investments.arts.size > 0 %}
+
+### Arts
+
+<p class="list-note">Mostly grants; I've written about why I like backing these storytellers <a href="/writing/">here</a></p>
+
+<ul class="entry-list">
+  {% for item in site.data.investments.arts %}
+    <li>
+      <span class="entry-name">{% if item.url %}<a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.name }}</a>{% else %}{{ item.name }}{% endif %}</span>
+      {% if item.year %}<span class="entry-year">{{ item.year }}</span>{% endif %}
+      {% if item.note %}<span class="entry-note">{{ item.note }}</span>{% endif %}
     </li>
   {% endfor %}
 </ul>

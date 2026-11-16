@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: research
-description: Peer-reviewed manuscripts, most recent first. Full list on <a href='https://scholar.google.com/citations?user=CeiPwnIAAAAJ&hl=en'>Google Scholar</a>. General writing is <a href='/writing/'>over here</a>.
+description: Peer-reviewed manuscripts, most recent first. Full list on <a href='https://scholar.google.com/citations?user=CeiPwnIAAAAJ&hl=en'>Google Scholar</a>. General writing is <a href='/writing/'>over here</a>
 nav: true
 nav_order: 2
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: Comics
 # No links in this description — see the note in security-community.md.
-description: I like to design team cartoons, often with Nick Massios.
+description: I like to design team cartoons, often with Nick Massios
 importance: 2
 category: present
 img: assets/img/comic.jpg
