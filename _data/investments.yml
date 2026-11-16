@@ -30,9 +30,9 @@ advising:
 # backs it up. Unexited companies are left plain — the absence of a note is not
 # a claim either way, just the absence of public news I could verify.
 #
-# NO DEAL FIGURES. Do not add valuations, deal sizes or multiples here, even
-# ones reported in the press — as an investor, publishing a number the company
-# has not itself disclosed is a problem regardless of where it was sourced.
+# Deal figures: only include a price the acquirer or company announced
+# publicly (press release or SEC filing). Leave out undisclosed terms, press
+# estimates and leaks.
 #
 # Sources: prefer the acquirer's own announcement; major media (TechCrunch,
 # Reuters, ynet) is fine too. Avoid niche trade press and third-party blogs.
@@ -50,7 +50,7 @@ backed:
   - name: Antares
   - name: Atom Limbs
   - name: Beckley Psytech
-    note: merged with atai to form AtaiBeckley, 2025; acquired by Eli Lilly, 2026
+    note: merged with atai to form AtaiBeckley, 2025; acquired by Eli Lilly for up to $3.8B, 2026
     url: https://investor.lilly.com/news-releases/news-release-details/lilly-acquire-ataibeckley-advance-therapies-treatment-resistant
   - name: BigHat Biosciences
   - name: Biosphere
@@ -68,8 +68,8 @@ backed:
     url: https://www.zendesk.com/newsroom/press-releases/zendesk-completes-acquisition-of-forethought/
   - name: Freedom Biosciences
   - name: Gilgamesh Pharmaceuticals
-    note: acquired by AbbVie, 2025; remaining programs spun out as Gilgamesh Pharma
-    url: https://news.abbvie.com/2025-10-17-AbbVie-Completes-Acquisition-of-Gilgamesh-Pharmaceuticals-Bretisilocin
+    note: acquired by AbbVie for up to $1.2B, 2025; remaining programs spun out as Gilgamesh Pharma
+    url: https://news.abbvie.com/2025-08-25-AbbVie-to-Acquire-Gilgamesh-Pharmaceuticals-Bretisilocin%2C-a-Novel%2C-Investigational-Therapy-for-Major-Depressive-Disorder%2C-Expanding-Psychiatry-Pipeline
   - name: Hello Alfred
   - name: Hey Jane
   - name: Journey Clinical
