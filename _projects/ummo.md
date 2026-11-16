@@ -2,7 +2,7 @@
 layout: page
 title: Ummo
 description: Founding team at Ummo, a personalized speech coach. Public speaking is hard, Ummo makes it easier. Showcased by the Apple App Store as The Top 3 "Apps We Love" in Spring 2016
-importance: 3
+importance: 4
 category: past
 img: assets/img/projects/ummo.jpg
 redirect: https://www.businessinsider.com/ummo-app-tracks-your-speech-2016-5
