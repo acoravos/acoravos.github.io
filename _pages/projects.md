@@ -5,7 +5,7 @@ permalink: /projects/
 description: Some things I've been working on over the years
 nav: true
 nav_order: 4
-display_categories: [present, past]
+display_categories: # merged into one grid; order comes from each project's `importance`
 horizontal: false
 ---
 
