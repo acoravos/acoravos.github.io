@@ -17,21 +17,20 @@
   title: "Episode 26: A brave new world of digital medicine"
   year: 2020
   url: https://medium.com/@TheFluxPodcast/26-andy-coravos-a-brave-new-world-of-digital-medicine-b9d466c150ef
-  img: assets/img/talks/flux-logo.png
-  logo: true
+  img: assets/img/talks/flux.jpg
 
-- outlet: Venture Stories
+- outlet: Village Global Podcast
   title: The state of biohacking in 2020, with Nina Alli and Beau Woods
   year: 2020
-  url: https://player.fm/series/venture-stories/the-state-of-biohacking-in-2020-with-andy-coravos-nina-alli-and-beau-woods
-  img: assets/img/talks/venture-stories-logo.png
-  logo: true
+  url: https://podcasts.apple.com/us/podcast/the-state-of-biohacking-in-2020-with-andy-coravos/id1316769266?i=1000499161968
+  img: assets/img/talks/village-global.jpg
 
 - outlet: MIT OpenCourseWare
   title: "Machine Learning for Healthcare, Lecture 22: Regulation of ML/AI in the US"
   year: 2019
   url: https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/lecture-22-regulation-of-machine-learning-artificial-intelligence-in-the-us/
-  img: assets/img/talks/mit-ocw.jpg
+  img: assets/img/talks/mit-ocw-logo.png
+  logo: true
 
 - outlet: Tech Tonics
   title: Championing responsible digital medicine
