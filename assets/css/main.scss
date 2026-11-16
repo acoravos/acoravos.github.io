@@ -178,6 +178,13 @@
   }
 }
 
+/* The theme shrinks .more-info paragraphs to their text width (inline-block),
+   which makes text-align: right a no-op. Let the credit span the photo's width
+   so it sits flush with the photo's right edge. */
+.profile .more-info .photo-credit {
+  display: block;
+}
+
 /* Research page: entries with no figure fall back to the journal's logo. Those
    files are named *-logo.png/jpg, so target them by filename and contain rather
    than crop — a square mark must not be stretched into a figure slot. */
