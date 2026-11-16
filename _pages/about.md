@@ -33,7 +33,7 @@ I co-founded HumanFirst and served as CEO for seven years. We designed Atlas, an
 - **Research and writing.** [Peer-reviewed work](/publications/) and [essays, handbooks and field notes](/writing/), including two open-access handbooks with the [Astera Institute](https://astera.org/inside-baseball-the-founders-guide-to-funding-health-and-science-organizations/)
 - **Making things.** Photography, comics, and music. See [projects](/projects/)
 
-Want to learn more about collaborating with me? Check out my [User Guide](https://docs.google.com/document/d/1Amp4UR39rl16XccfE3BvQTeYkiHwxKvCb5As1JcrNUI/edit).
+Want to learn more about collaborating with me? Check out my [User Guide](https://docs.google.com/document/d/18zp1nivvPwWYbo9BVZLoauRILhvOEGdpMGC3aGkaVU8/edit).
 
 I live in Brooklyn with my Irishman, though you'll often find me in Dublin and London.
 
