@@ -18,7 +18,9 @@ New York City is home base, though you'll often find me in Dublin, Ireland.
 
 I'm a Venture Partner at [Pillar VC](https://www.pillar.vc/), backing and building companies in brain health and neurotech, frontier hardware, women's health, and longevity. Pillar partnered with the UK's Advanced Research + Invention Agency (ARIA) to launch [Encode: AI for Science](https://encode.pillar.vc/), a £10.9 million programme backing AI/ML engineers as they advance frontier science and build new ventures. I'm hiring a venture associate in the UK to work with me.
 
-I'm also an Expert-in-Residence (XIR) at [ARPA-H](https://arpa-h.gov/), the Advanced Research Projects Agency for Health, through Digitalis Commons. I focus on [DIGIHEALS](https://arpa-h.gov/research-and-funding/programs/digiheals), the Digital Health Security initiative, designed to protect the U.S. health care system's electronic infrastructure from cyberattacks.
+I'm an Expert-in-Residence (XIR) at [ARPA-H](https://arpa-h.gov/), the Advanced Research Projects Agency for Health, through Digitalis Commons. I focus on [DIGIHEALS](https://arpa-h.gov/research-and-funding/programs/digiheals), the Digital Health Security initiative, designed to protect the U.S. health care system's electronic infrastructure from cyberattacks.
+
+I also run Grey Heron Global, a strategic advisory working with founders and execs, VC funds, and research orgs.
 
 Before that, I co-founded HumanFirst and served as CEO for seven years, building the infrastructure for measuring health with digital tools in clinical research. In 2024 we sold the company to [ICON](https://www.statnews.com/2024/02/29/icon-acquires-humanfirst-digital-tools-clinical-trials/) (NASDAQ: ICLR).
 
