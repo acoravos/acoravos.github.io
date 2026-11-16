@@ -24,7 +24,7 @@ latest_posts:
 
 Hi, I'm Andy. I research, build, and fund things at the edge of science and the humanities. I look for what makes life better, then help scale it so more people have access. Software is often the mechanism, but not always.
 
-I co-founded HumanFirst and served as CEO for seven years, building the infrastructure for measuring health with digital tools in clinical research. In 2024 we sold the company to [ICON](https://www.statnews.com/2024/02/29/icon-acquires-humanfirst-digital-tools-clinical-trials/) (NASDAQ: ICLR).
+I co-founded HumanFirst and served as CEO for seven years. We designed Atlas, an AI-powered platform that pharma and biotech teams used to evaluate endpoints and plan better clinical research protocols. In 2024 we sold the company to [ICON](https://www.statnews.com/2024/02/29/icon-acquires-humanfirst-digital-tools-clinical-trials/) (NASDAQ: ICLR).
 
 **What I'm working on now**
 
