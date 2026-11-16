@@ -40,11 +40,9 @@ backed:
   - name: 2A Biosciences
   - name: 64x
   - name: Abridge
-  # Yuval Gonczarowski (Akooda CEO) on the acquisition. Canonical post URL —
-  # the lnkd.in share link carries a member tracking token, so do not use it.
   - name: Akooda
     note: acquired by Tulip Interfaces, 2025
-    url: https://www.linkedin.com/posts/goncho_a-year-ago-this-month-akooda-acquired-by-ugcPost-7513684471678775298-0kzx/
+    url: https://tulip.co/press/tulip-acquires-ai-company-akooda/
   - name: Amira Health
   - name: Ancilia Bio
   - name: Antares
