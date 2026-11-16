@@ -298,3 +298,29 @@ footer.sticky-bottom {
   padding-bottom: 16px;
   color: var(--global-text-color-light);
 }
+
+/* Theme toggle: the theme's "auto" icon (half sun spliced with half moon) and
+   Font Awesome's solid sun both read as a gear at menu-bar size. Draw a simple
+   sun with detached, rounded rays instead, tinted with the text colour. */
+$toggle-sun: url("data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cg stroke='black' stroke-width='6' stroke-linecap='round'%3E%3Cline x1='32' y1='5' x2='32' y2='12'/%3E%3Cline x1='32' y1='52' x2='32' y2='59'/%3E%3Cline x1='5' y1='32' x2='12' y2='32'/%3E%3Cline x1='52' y1='32' x2='59' y2='32'/%3E%3Cline x1='12.9' y1='12.9' x2='17.9' y2='17.9'/%3E%3Cline x1='46.1' y1='46.1' x2='51.1' y2='51.1'/%3E%3Cline x1='12.9' y1='51.1' x2='17.9' y2='46.1'/%3E%3Cline x1='46.1' y1='17.9' x2='51.1' y2='12.9'/%3E%3C/g%3E%3Ccircle cx='32' cy='32' r='12'/%3E%3C/svg%3E");
+
+.fa-half-sun-moon::before,
+#light-toggle-light::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  clip-path: none;
+  background-color: var(--global-text-color);
+  -webkit-mask: $toggle-sun center / contain no-repeat;
+  mask: $toggle-sun center / contain no-repeat;
+}
+
+.fa-half-sun-moon::after {
+  content: none;
+}
+
+#light-toggle-light {
+  position: relative;
+  width: 1em;
+  height: 1em;
+}
