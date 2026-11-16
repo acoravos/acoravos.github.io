@@ -14,7 +14,7 @@ nav_order: 1
   </p>
 </div>
 
-New York City is home base, though you'll often find me in Dublin, Ireland.
+New York City is home base, though you'll often find me in Ireland and the UK.
 
 I'm a Venture Partner at [Pillar VC](https://www.pillar.vc/), backing and building companies in:
 
@@ -24,9 +24,7 @@ I'm a Venture Partner at [Pillar VC](https://www.pillar.vc/), backing and buildi
 - Cybersecurity
 - Frontier hardware: robotics, nuclear, semiconductors, and space
 
-I'm hiring a venture associate in the UK to work with me at Pillar.
-
-Through Pillar, I also support [Encode: AI for Science](https://encode.pillar.vc/), a £10.9 million programme that Pillar runs with the UK's Advanced Research + Invention Agency (ARIA), backing AI/ML engineers as they advance frontier science and build new ventures. Its second cohort launched in London in September 2026.
+Through Pillar, I also support [Encode: AI for Science](https://encode.pillar.vc/), a £10.9 million programme that Pillar runs with the UK's Advanced Research + Invention Agency (ARIA), backing AI/ML engineers as they advance frontier science and build new ventures. Its second cohort launched in London in September 2026. I'm hiring a venture associate in the UK to join me.
 
 I serve as an Expert in Residence (XIR) at [ARPA-H](https://arpa-h.gov/), the Advanced Research Projects Agency for Health, through Digitalis Commons. I focus on [DIGIHEALS](https://arpa-h.gov/research-and-funding/programs/digiheals), the Digital Health Security initiative, designed to protect the U.S. health care system's electronic infrastructure from cyberattacks. I also advise founders and execs, VC funds, and research orgs through my firm, Grey Heron Global.
 
