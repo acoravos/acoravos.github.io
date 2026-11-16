@@ -252,3 +252,49 @@
     text-decoration: underline;
   }
 }
+
+/* About page: Encode cohort photo sits at the bottom of the page at a modest
+   size, so it reads as a postcard rather than a hero image. */
+.encode-photo {
+  clear: both;
+  max-width: 420px;
+  margin: 2rem 0 1rem;
+}
+
+/* Photo credit under the home portrait: the theme sets .more-info in monospace;
+   match the other credits instead. */
+.profile .more-info {
+  font-family: inherit;
+}
+
+/* Phones: keep images from filling the whole screen. */
+@media (max-width: 575.98px) {
+  /* Portraits on the home and about pages: two-thirds width, centred, so the
+     intro text starts on the first screen. */
+  .profile {
+    float: none !important;
+    width: 66%;
+    margin: 0 auto 1.25rem;
+  }
+
+  /* Writing and publication thumbnails: short, cropped banners. Logo-style
+     previews keep `contain` from the rule above, so they are never cropped. */
+  .publications .abbr img.preview,
+  .publications img.preview {
+    width: 100%;
+    max-height: 180px;
+    object-fit: cover;
+  }
+
+  .publications img.preview[src*="-logo"] {
+    object-fit: contain;
+  }
+}
+
+/* Footer: quieter and more compact than the theme default (0.9rem, 40px padding). */
+footer.sticky-bottom {
+  font-size: 0.7rem;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  color: var(--global-text-color-light);
+}
