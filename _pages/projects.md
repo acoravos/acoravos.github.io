@@ -65,7 +65,7 @@ horizontal: false
 </div>
 
 <p class="photo-credit mt-4">
-  Photos of me by <a href="https://www.amylombard.com/">Amy Lombard</a>, shot for
+  Photos by <a href="https://www.amylombard.com/">Amy Lombard</a>, shot for
   <a href="https://www.wsj.com/tech/ai/the-people-who-are-using-ai-at-home-to-free-up-their-time-30940cec">this WSJ piece</a>
-  and generously shared with me afterward.
+  and generously shared afterward.
 </p>
