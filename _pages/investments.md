@@ -69,7 +69,7 @@ nav_order: 5
 
 ### Arts
 
-<p class="list-note">Mostly grants; I've written about why I like backing these storytellers <a href="/writing/">here</a></p>
+<p class="list-note">Mostly grants; I've written about why I like backing these storytellers in <a href="https://blog.andreacoravos.com/angel-investing-in-the-arts-film-and-movies-9934da81ce0f" target="_blank" rel="noopener">film</a> and on <a href="https://blog.andreacoravos.com/angel-investing-in-the-arts-part-ii-broadway-edition-0514c36e6407" target="_blank" rel="noopener">Broadway</a></p>
 
 <ul class="entry-list">
   {% for item in site.data.investments.arts %}
