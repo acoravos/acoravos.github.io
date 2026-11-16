@@ -5,7 +5,7 @@ description: Research Collaborator, 2018&ndash;2024. Advancing research in clini
 importance: 4
 category: past
 img: assets/img/projects/crs-logo.png
-redirect: https://hmcrs.org/
+redirect: https://hmcrs.org/people/research-scholars/#alumni
 ---
 
-Research Collaborator at the [Harvard-MIT Center for Regulatory Science](https://hmcrs.org/), July 2018 to August 2024. Advancing research in clinical AI/ML, digital and precision medicine.
+Research Collaborator at the [Harvard-MIT Center for Regulatory Science](https://hmcrs.org/people/research-scholars/#alumni), July 2018 to August 2024. Advancing research in clinical AI/ML, digital and precision medicine.
