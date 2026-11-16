@@ -16,7 +16,15 @@ nav_order: 1
 
 New York City is home base, though you'll often find me in Dublin, Ireland.
 
-I'm a Venture Partner at [Pillar VC](https://www.pillar.vc/), backing and building companies in brain health, frontier hardware, women's health, and longevity. In brain health, I focus on neurotech, psychedelic biotech, and the exposome: how our homes and environments shape the brain and neurodegeneration. I'm hiring a venture associate in the UK to work with me at Pillar.
+I'm a Venture Partner at [Pillar VC](https://www.pillar.vc/), backing and building companies in:
+
+- AI-native bio
+- Brain health, from neurotech and psychedelic biotech to the exposome: how our homes and environments shape the brain
+- Women's health across every life stage: fertility, menopause, and longevity
+- Cybersecurity
+- Frontier hardware: robotics, nuclear, semiconductors, and space
+
+I'm hiring a venture associate in the UK to work with me at Pillar.
 
 Through Pillar, I also support [Encode: AI for Science](https://encode.pillar.vc/), a £10.9 million programme that Pillar runs with the UK's Advanced Research + Invention Agency (ARIA), backing AI/ML engineers as they advance frontier science and build new ventures. Its second cohort launched in London in September 2026.
 
