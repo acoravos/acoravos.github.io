@@ -29,7 +29,7 @@ I co-founded HumanFirst and served as CEO for seven years. We designed Atlas, an
 **What I'm working on now**
 
 - **Venture Partner at [Pillar VC](https://www.pillar.vc/).** Backing and building companies in AI-native bio, brain health, women's health, cybersecurity, and frontier hardware. I'm hiring a venture associate in the UK to work with me
-- **Angel investing.** About 85 companies over twelve years, plus a handful of funds. See [investing](/investments/)
+- **Angel investing.** ~85 companies over twelve years, plus several funds. See [investments](/investments/)
 - **Research and writing.** [Peer-reviewed work](/publications/) and [essays, handbooks and field notes](/writing/), including two open-access handbooks with the [Astera Institute](https://astera.org/inside-baseball-the-founders-guide-to-funding-health-and-science-organizations/)
 - **Making things.** Photography, comics, and music. See [projects](/projects/)
 
