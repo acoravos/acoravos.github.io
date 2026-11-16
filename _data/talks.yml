@@ -1,0 +1,46 @@
+# Podcasts, classes and talks. Rendered as cards on /talks/.
+# img is optional — drop a file in drop-images/ and it gets wired in here.
+
+- outlet: Vital Signs
+  title: "Ep 21: Hyperspecialization in pharma R&D and digital biomarkers"
+  year: 2023
+  url: https://podcasts.apple.com/us/podcast/ep-21-andy-coravos-and-ashoka-rajendra-on/id1633120652?i=1000610558352
+  img: assets/img/talks/vital-signs.jpg
+
+- outlet: a16z Podcast
+  title: Taking the pulse on medical device security
+  year: 2020
+  url: https://a16z.com/2020/07/22/security-hacking-medical-devices/
+  img: assets/img/talks/a16z.jpg
+
+- outlet: Flux
+  title: "Episode 26: A brave new world of digital medicine"
+  year: 2020
+  url: https://medium.com/@TheFluxPodcast/26-andy-coravos-a-brave-new-world-of-digital-medicine-b9d466c150ef
+  img: assets/img/talks/flux-logo.png
+  logo: true
+
+- outlet: Venture Stories
+  title: The state of biohacking in 2020, with Nina Alli and Beau Woods
+  year: 2020
+  url: https://player.fm/series/venture-stories/the-state-of-biohacking-in-2020-with-andy-coravos-nina-alli-and-beau-woods
+  img: assets/img/talks/venture-stories-logo.png
+  logo: true
+
+- outlet: MIT OpenCourseWare
+  title: "Machine Learning for Healthcare, Lecture 22: Regulation of ML/AI in the US"
+  year: 2019
+  url: https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/resources/lecture-22-regulation-of-machine-learning-artificial-intelligence-in-the-us/
+  img: assets/img/talks/mit-ocw.jpg
+
+- outlet: Tech Tonics
+  title: Championing responsible digital medicine
+  year: 2019
+  url: https://venturevalkyrie.com/new-tech-tonics-podcast-episode-andy-coravos-championing-responsible-digital-medicine/
+  img: assets/img/talks/tech-tonics.jpg
+
+- outlet: DEF CON Biohacking Village
+  title: The rise of software as medicine
+  year: 2017
+  url: https://docs.google.com/presentation/d/1UQNTxSyjuUQOJvk3TnfQcplih94OQGEvZCPcT1KzxOY/edit?usp=sharing
+  img: assets/img/talks/defcon.jpg

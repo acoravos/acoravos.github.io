@@ -1,0 +1,160 @@
+# Writing, newest first. Rendered on /writing/ in the same row layout as the
+# research page, so each item can carry a thumbnail.
+#
+# Order in this file IS the display order — no sorting happens at build time,
+# so you can place an item wherever you want it to appear.
+#
+# Fields: outlet (badge), title, year (displayed), url, img (optional —
+# drop a file in drop-images/ and it gets wired in here).
+#
+# NOTE: two of these also exist as posts on blog.andreacoravos.com — the
+# founder's funding guide and the go-to-market handbook. The Astera versions are
+# listed here because that is how andreacoravos.com lists them. Say the word if
+# you'd rather point at the blog copies.
+
+- outlet: blog
+  title: The Human as Conductor
+  year: 2026
+  url: https://blog.andreacoravos.com/the-human-as-conductor-8459e2bfe0f1
+  img: assets/img/writing/human-conductor.jpg
+
+- outlet: Substack
+  title: "Fresh Start: New Playground"
+  year: 2025
+  url: https://andreacoravos.substack.com/p/fresh-start-new-playground
+  img: assets/img/writing/substack-freshstart.jpg
+
+- outlet: Astera
+  title: "Inside baseball: the founder's guide to funding health and science organizations"
+  year: 2025
+  url: https://astera.org/inside-baseball-the-founders-guide-to-funding-health-and-science-organizations/
+  img: assets/img/writing/astera-insidebaseball.jpg
+
+- outlet: blog
+  title: "Angel Investing in the Arts, Part II: Broadway Edition"
+  year: 2025
+  url: https://blog.andreacoravos.com/angel-investing-in-the-arts-part-ii-broadway-edition-0514c36e6407
+  img: assets/img/writing/angel-broadway.png
+
+- outlet: blog
+  title: "Angel Investing in the Arts: Film and Movies"
+  year: 2025
+  url: https://blog.andreacoravos.com/angel-investing-in-the-arts-film-and-movies-9934da81ce0f
+  img: assets/img/writing/angel-film.png
+
+- outlet: Astera
+  title: "The early-stage go-to-market handbook: selling software to pharma and biotech"
+  year: 2025
+  url: https://astera.org/pharma-sales-handbook/
+  img: assets/img/writing/astera-gtm.jpg
+
+- outlet: blog
+  title: "The Neurotech Compendium: Reflections from the Frontier"
+  year: 2025
+  url: https://blog.andreacoravos.com/the-neurotech-compendium-reflections-from-the-frontier-8fb043c9e9d9
+  img: assets/img/writing/neurotech-compendium.jpg
+
+- outlet: blog
+  title: "Evolution of the Human Brain: The Past, The Now, and Our Future"
+  year: 2025
+  url: https://blog.andreacoravos.com/evolution-of-the-human-brain-the-past-the-now-and-our-future-a372bbe2fc80
+  img: assets/img/writing/evolution-brain.jpg
+
+- outlet: HumanFirst
+  title: "Biometric remote patient monitoring: what most people aren't talking about (yet)"
+  year: 2022
+  url: https://medium.com/@AndreaCoravos/biometric-remote-patient-monitoring-what-most-people-arent-talking-about-yet-5afe2d90057a
+  img: assets/img/writing/biometric-rpm.png
+
+- outlet: npj Digit Med
+  title: Using connected sensor technologies to measure health at home
+  year: 2020
+  url: https://npjdigitalmedcommunity.nature.com/users/381590-andy-coravos/posts/64818-using-connected-sensor-technologies-to-measure-health-at-home
+  img: assets/img/writing/npj-behindpaper.jpg
+
+- outlet: Quartz
+  title: Treating algorithms like prescription drugs could reduce AI bias
+  year: 2019
+  url: https://qz.com/1540594/treating-algorithms-like-prescription-drugs-could-reduce-ai-bias/
+  img: assets/img/writing/quartz-aibias.jpg
+
+- outlet: blog
+  title: Decentralized clinical trials
+  year: 2018
+  url: https://blog.andreacoravos.com/decentralized-clinical-trials-e9dbde90ea95
+  img: assets/img/writing/decentralized-trials.png
+
+- outlet: STAT News
+  title: "Blockchains for biomedicine and health care are coming. Buyer: be informed"
+  year: 2018
+  url: https://www.statnews.com/2018/07/25/blockchains-biomedicine-health-care-buyer-be-informed/
+  img: assets/img/writing/stat-blockchain2018.jpg
+
+- outlet: WIRED
+  title: "Digital Medicine: The doctor prescribes video games and virtual reality rehab"
+  year: 2018
+  url: https://www.wired.com/story/prescription-video-games-and-vr-rehab/
+  img: assets/img/writing/wired-videogames.jpg
+
+- outlet: blog
+  title: Twitter's design flaw that stunts healthy, civil, productive conversations
+  year: 2018
+  url: https://blog.andreacoravos.com/twitters-design-flaw-that-stunts-healthy-civil-productive-conversations-73628ecaa736
+  img: assets/img/writing/twitter-designflaw.png
+
+- outlet: blog
+  title: "Going Viral: New Responsibilities in The Attention Economy"
+  year: 2018
+  url: https://blog.andreacoravos.com/going-viral-new-responsibilities-in-the-attention-economy-d0e97a4b09f1
+
+- outlet: STAT News
+  title: "Blockchains and health care: promising and moving quickly, though no silver bullet"
+  year: 2017
+  url: https://www.statnews.com/2017/12/27/blockchains-health-care-no-silver-bullet/
+  img: assets/img/writing/stat-blockchain2017.png
+
+- outlet: The Harbus
+  title: Who Said Harvard MBAs Don't Code?
+  year: 2017
+  url: https://www.harbus.org/post/who-said-harvard-mbas-don-t-code
+
+- outlet: HBS
+  title: Software-Enabled Clinical Trials
+  year: 2017
+  url: https://aiinstitute.hbs.edu/software-enabled-clinical-trials/
+  img: assets/img/writing/hbs-softwaretrials.jpg
+
+- outlet: NeuroTechX
+  title: You can (literally) turn on the lights using your mind — Matilda is not science fiction anymore
+  year: 2017
+  url: https://medium.com/neurotechx/you-can-literally-turn-on-the-lights-using-your-mind-matilda-is-not-science-fiction-anymore-c5851b86e6fb
+
+- outlet: NeuroTechX
+  title: Can stimulating your nervous system reverse Parkinson's, reduce depressive episodes, and help you learn the piano?
+  year: 2017
+  url: https://medium.com/neurotechx/can-stimulating-your-nervous-system-reverse-parkinsons-reduce-depressive-episodes-and-help-you-4699b2bb3698
+
+- outlet: NeuroTechX
+  title: "The BRAIN Initiative: The race to understand the human brain"
+  year: 2017
+  url: https://medium.com/neurotechx/the-brain-initiative-the-race-to-understand-the-human-brain-c2fddfea271e
+
+- outlet: HuffPost
+  title: Coding Is the New Business Literacy
+  year: 2016
+  url: https://www.huffpost.com/entry/coding-is-the-new-busines_b_11028790
+
+- outlet: blog
+  title: "Internet Security 101: A starter guide to avoid being an idiot online"
+  year: 2016
+  url: https://blog.andreacoravos.com/internet-security-101-a-starter-guide-to-avoid-being-an-idiot-online-6058ee51c6c6
+
+- outlet: HBS MBA Voices
+  title: Interning As A Software Engineer While At Harvard Business School
+  year: 2016
+  url: http://www.hbs.edu/mba/blog/post/interning-as-a-software-engineer-at-hbs
+
+- outlet: HBS MBA Voices
+  title: Meet the CODE Club
+  year: 2015
+  url: http://www.hbs.edu/mba/blog/post/meet-the-hbs-code-club

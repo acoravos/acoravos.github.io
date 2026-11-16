@@ -1,0 +1,29 @@
+_site
+
+# Staging + parked files. The `exclude:` list in _config.yml only stops Jekyll
+# publishing these to the website — it does NOT stop git committing them. These
+# hold full-resolution originals and removed content, so keep them local.
+drop-images/
+.attic/
+old-site/
+
+.bundle
+.DS_store
+.idea
+.jekyll-cache
+.jekyll-metadata
+.ruby-version
+.sass-cache
+.tweet-cache
+.venv
+assets/libs/
+assets/rendercv/rendercv_output/*.typ
+al-folio-upgrade-report.md
+node_modules/
+output/playwright/
+test-results/
+vendor
+
+# Python bytecode from bin/ helper scripts
+__pycache__/
+*.pyc

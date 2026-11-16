@@ -1,0 +1,247 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+/* Built-in Sass modules you’ll likely use across partials */
+@use "sass:math";
+@use "sass:string";
+
+/* Configure your design tokens BEFORE loading any of your partials.
+   Make sure `_sass/_variables.scss` declares `$max-content-width: 72rem !default;` */
+@use "variables" with (
+  $max-content-width: {{ site.max_width | default:  "930px" }}
+);
+
+/* Your project partials — convert these files to `@use "variables";`
+   (or `@use "variables" as *;`) inside each file and qualify variables if needed. */
+@use "themes";
+@use "layout";
+
+// Core styles organized by usage
+@use "typography";
+@use "navbar";
+@use "footer";
+@use "blog";
+@use "publications";
+@use "components";
+@use "utilities";
+
+// Other specialized styles
+@use "tabs";
+@use "teachings";
+@use "typograms";
+
+/* ---------------------------------------------------------------------------
+ * Local overrides (andreacoravos.com)
+ *
+ * This file shadows assets/css/main.scss from the al_folio_core gem. Keep the
+ * @use block above in sync with the gem on upgrade; add site-specific rules
+ * only below this line.
+ * ------------------------------------------------------------------------- */
+
+/* Home page social icons. The theme sets these at 4rem (64px), which dominates
+   the page; scale down and use the link colour so they read as clickable. */
+.social .contact-icons {
+  font-size: 1.9rem;
+
+  /* The theme colours these on `a i::before`, so match that specificity or the
+     override silently loses. */
+  a i::before,
+  a i:hover::before {
+    color: var(--global-theme-color);
+  }
+
+  a:hover i::before {
+    color: var(--global-hover-color);
+  }
+}
+
+/* Investments lists. A Bootstrap column grid broke badly at phone and tablet
+   widths — short names left big ragged gaps and long ones wrapped mid-word.
+   A plain list that flows into CSS columns reflows cleanly at every width:
+   one column on phones, two on tablets, three on desktop, no row alignment to
+   fight. `break-inside: avoid` keeps an entry from splitting across columns. */
+.entry-list {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 2rem;
+
+  li {
+    break-inside: avoid;
+    padding: 0.3rem 0;
+    line-height: 1.4;
+  }
+
+  .entry-name {
+    font-weight: 500;
+  }
+
+  .entry-year {
+    color: var(--global-text-color-light);
+    font-size: 0.8rem;
+    margin-left: 0.4rem;
+    white-space: nowrap;
+  }
+
+  /* Outcome notes wrap onto their own line — they are sentences, not labels,
+     and must not force a column to the width of "acquired by Eli Lilly, 2026". */
+  .entry-note {
+    display: block;
+    color: var(--global-text-color-light);
+    font-size: 0.75rem;
+    line-height: 1.3;
+  }
+
+  &.columns {
+    column-count: 1;
+    column-gap: 2rem;
+  }
+}
+
+@media (min-width: 576px) {
+  .entry-list.columns {
+    column-count: 2;
+  }
+}
+
+@media (min-width: 992px) {
+  .entry-list.columns {
+    column-count: 3;
+  }
+}
+
+/* Theme toggle, "follow system" state. The theme builds this icon by splicing
+   half a filled circle (\f111) against half a sun (\f185); rays on one side of
+   a flat edge read as a gear. Replace it with circle-half-stroke (\f042), the
+   conventional auto-theme mark, which stays distinct from the plain sun and
+   moon used for the explicit light and dark states. */
+.fa-half-sun-moon::before {
+  content: "\f042";
+  clip-path: none;
+  color: var(--global-text-color);
+}
+
+.fa-half-sun-moon::after {
+  content: "";
+}
+
+/* Quiet note under a section heading (e.g. explaining what a column means). */
+.list-note {
+  font-size: 0.78rem;
+  color: var(--global-text-color-light);
+  margin-top: -0.5rem;
+  margin-bottom: 0.75rem;
+
+  a {
+    color: var(--global-theme-color);
+
+    &:hover {
+      color: var(--global-hover-color);
+      text-decoration: underline;
+    }
+  }
+}
+
+/* Page-description links. The theme renders these with `color: inherit`, so a
+   link in a page subtitle looks like plain text until hovered. Give them the
+   accent colour like every other link on the site. */
+.post-description a {
+  color: var(--global-theme-color);
+
+  &:hover {
+    color: var(--global-hover-color);
+    text-decoration: underline;
+  }
+}
+
+/* Photographer credits sit under a photo and should stay quiet: small, grey and
+   right-aligned to the photo's edge so they read as a caption, not body text.
+   Links inherit the grey rather than taking the accent colour, for the same
+   reason — the credit should recede until someone looks for it. */
+.photo-credit {
+  font-size: 0.6rem;
+  line-height: 1.35;
+  text-align: right;
+  color: var(--global-text-color-light);
+
+  /* The surrounding text stays quiet, but the photographer's name takes the
+     accent colour — they should get visible credit, not a grey mention. */
+  a {
+    color: var(--global-theme-color);
+    text-decoration: none;
+
+    &:hover {
+      color: var(--global-hover-color);
+      text-decoration: underline;
+    }
+  }
+}
+
+/* Research page: entries with no figure fall back to the journal's logo. Those
+   files are named *-logo.png/jpg, so target them by filename and contain rather
+   than crop — a square mark must not be stretched into a figure slot. */
+.publications img.preview[src*="-logo"] {
+  object-fit: contain;
+  padding: 0.75rem;
+  background: var(--global-card-bg-color, #f6f6f6);
+}
+
+/* Project card images arrive at every aspect ratio — a wide press photo, a tall
+   phone shot, a square logo — so each card's title began at a different height
+   and the grid read as ragged. Fix the image band to one height for every card
+   and let the image fit inside it; titles then line up across the row.
+   A tinted background fills the gap for anything that doesn't fill the band. */
+.projects .card-img-top {
+  height: 180px;
+  width: 100%;
+  object-fit: cover;
+  background: var(--global-card-bg-color, #f3f3f3);
+}
+
+/* Organisation marks are square and must not be cropped — contain and pad them
+   inside the same band. Matched on filename because the theme's project include
+   does not accept a per-card class. */
+.projects .card-img-top[src*="-logo"] {
+  object-fit: contain;
+  padding: 1.5rem;
+}
+
+@media (max-width: 575.98px) {
+  .projects .card-img-top {
+    height: 130px;
+  }
+}
+
+/* Talks & press: cards whose only available art is the outlet's logo. A logo is
+   square and must not be cropped or stretched to a 16:9 photo slot, so give it a
+   fixed band, contain it, and pad it like a label. */
+/* Logo tiles share the same fixed band as photo cards (set above) so titles line
+   up across a row — only the fit differs: contain and pad instead of crop. */
+.card-img-top.logo-tile,
+.logo-tile img {
+  object-fit: contain;
+  padding: 1.5rem;
+  background: var(--global-card-bg-color, #f6f6f6);
+}
+
+/* Keep card titles readable at the 2-up phone width. */
+@media (max-width: 575.98px) {
+  .projects .card-title {
+    font-size: 0.95rem !important;
+    line-height: 1.25;
+  }
+}
+
+/* Research page: make paper titles read as links, matching /writing/.
+   The anchor itself is added by the small script in _pages/publications.md —
+   the theme's bib layout renders the title as plain text. */
+.publications .title a {
+  color: var(--global-theme-color);
+  text-decoration: none;
+
+  &:hover {
+    color: var(--global-hover-color);
+    text-decoration: underline;
+  }
+}

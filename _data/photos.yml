@@ -1,0 +1,11 @@
+# Photos shown on /projects/photography/.
+# Drop image files in drop-images/ and Claude will resize them, move them into
+# assets/img/photos/, and fill in the blocks below.
+#
+# One block per photo:
+#
+# - title: Morning at the Forty Foot
+#   location: Dublin
+#   year: 2025
+#   description: One sentence, or leave this line out.
+#   img: assets/img/photos/forty-foot.jpg

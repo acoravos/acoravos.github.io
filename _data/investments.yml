@@ -1,0 +1,124 @@
+# Shown on /investments/ in three groups: advising, backed, funds.
+# File order is display order — nothing is sorted at build time.
+#
+# advising: name + year (year = when the role STARTED; renders as "2022–present")
+# backed:   name only, unless you want to add a year
+# funds:    name only
+#
+# Add `url` to link a company and `note` for a short line. Leave out anything
+# that isn't public.
+
+advising:
+  - name: Abridge
+    year: 2022
+    url: https://www.abridge.com/
+  - name: Medplum
+    year: 2024
+    url: https://www.medplum.com/
+  - name: GLM
+    year: 2025
+  - name: OpenMind
+    year: 2026
+  - name: Inoculum Labs
+    year: 2026
+    url: https://health.ucsd.edu/news/press-releases/2023-10-03-uc-san-diego-awarded-$9.5-million-to-enhance-cybersecurity-in-health-care/
+  - name: Ancilia Bio
+    year: 2026
+    url: https://www.anciliabio.com/
+
+# Alphabetical. `note` marks an outcome; `url` links the announcement that
+# backs it up. Unexited companies are left plain — the absence of a note is not
+# a claim either way, just the absence of public news I could verify.
+#
+# NO DEAL FIGURES. Do not add valuations, deal sizes or multiples here, even
+# ones reported in the press — as an investor, publishing a number the company
+# has not itself disclosed is a problem regardless of where it was sourced.
+#
+# Sources: prefer the acquirer's own announcement; major media (TechCrunch,
+# Reuters, ynet) is fine too. Avoid niche trade press and third-party blogs.
+backed:
+  - name: 2A Biosciences
+  - name: 64x
+  - name: Abridge
+  # Yuval Gonczarowski (Akooda CEO) on the acquisition. Canonical post URL —
+  # the lnkd.in share link carries a member tracking token, so do not use it.
+  - name: Akooda
+    note: acquired by Tulip Interfaces, 2025
+    url: https://www.linkedin.com/posts/goncho_a-year-ago-this-month-akooda-acquired-by-ugcPost-7513684471678775298-0kzx/
+  - name: Amira Health
+  - name: Ancilia Bio
+  - name: Antares
+  - name: Atom Limbs
+  - name: Beckley Psytech
+    note: merged with atai to form AtaiBeckley, 2025; acquired by Eli Lilly, 2026
+    url: https://investor.lilly.com/news-releases/news-release-details/lilly-acquire-ataibeckley-advance-therapies-treatment-resistant
+  - name: BigHat Biosciences
+  - name: Biosphere
+  - name: Blackrock Neurotech
+  - name: BlockParty
+    note: acquired by DeleteMe, 2026
+    url: https://techcrunch.com/2026/03/25/deleteme-acquires-social-media-security-tool-block-party/
+  - name: Bluesky
+  - name: Boulder Care
+  - name: Conceive
+  - name: Delix Therapeutics
+  - name: Flexpa
+  - name: Forethought
+    note: acquired by Zendesk, 2026
+    url: https://www.zendesk.com/newsroom/press-releases/zendesk-completes-acquisition-of-forethought/
+  - name: Freedom Biosciences
+  - name: Gilgamesh Pharmaceuticals
+    note: acquired by AbbVie, 2025; remaining programs spun out as Gilgamesh Pharma
+    url: https://news.abbvie.com/2025-10-17-AbbVie-Completes-Acquisition-of-Gilgamesh-Pharmaceuticals-Bretisilocin
+  - name: Hello Alfred
+  - name: Hey Jane
+  - name: Journey Clinical
+  - name: Legacy
+  - name: Lemon Slice
+  - name: Levels
+  - name: Loyal
+  - name: MAPS
+  - name: MedRhythms
+  - name: Merge Labs
+  - name: Miniswap.gg
+  - name: Mood Health
+  - name: Morf Health
+  - name: Mural Health
+  - name: MycoMedica
+  - name: On Deck
+  - name: OneVillage
+  - name: Orbital
+  - name: Orchestra Bio
+    note: acquired by OpenAI, 2026
+    url: https://openai.com/index/openai-to-acquire-orchestra-bio/
+  - name: Orchid Health
+  - name: Pathway Labs
+  - name: PeopleScience
+  - name: Standard Bots
+  - name: TRIPP
+  - name: Vanta
+
+# Alphabetical, same as the company list.
+funds:
+  - name: Lux Capital
+    url: https://www.luxcapital.com/
+  - name: Moth Fund
+    url: https://www.mothfund.com/
+  - name: Not Boring Capital
+    url: https://www.notboring.vc/
+  - name: Outset Capital
+    url: https://outsetcapital.com/
+  - name: PsyMed Ventures
+    url: https://psymed.ventures/
+
+# Arts. Only entries you have already named publicly in your own writing belong
+# here. Your Medium pieces describe "a documentary via a grant mechanism" and
+# "a grant into a short story platform" without naming either — add them here
+# yourself if you want them listed.
+arts:
+  - name: holds you tight
+    note: documentary, Strange Design Films
+    url: https://strangedesignfilms.com/#holds-you-tight
+  - name: Suffs
+    note: Broadway musical by Shaina Taub, via Nothing Ventured Productions
+    url: https://suffsmusical.com/

@@ -1,0 +1,116 @@
+# Press mentions. Rendered as cards on /talks/.
+# img is optional — drop a file in drop-images/ and it gets wired in here.
+
+- outlet: WSJ
+  title: The people who are using AI at home to free up their time
+  year: 2026
+  url: https://www.wsj.com/tech/ai/the-people-who-are-using-ai-at-home-to-free-up-their-time-30940cec
+  img: assets/img/talks/wsj-2026-logo.png
+  logo: true
+
+- outlet: STAT News
+  title: ICON acquires HumanFirst to boost support for digital tools in clinical trials
+  year: 2024
+  url: https://www.statnews.com/2024/02/29/icon-acquires-humanfirst-digital-tools-clinical-trials/
+  img: assets/img/talks/stat-2024.jpeg
+
+- outlet: Forbes
+  title: Joy is the next frontier of precision medicine
+  year: 2023
+  url: https://www.forbes.com/sites/greglicholai/2023/06/12/joy-is-next-frontier-of-precision-medicine/
+  img: assets/img/talks/forbes-joy-logo.png
+  logo: true
+
+- outlet: Entrepreneur
+  title: 100 Women of Influence
+  year: 2022
+  url: https://www.entrepreneur.com/leadership/100-women-of-influence-in-2022/435872
+  img: assets/img/talks/entrepreneur.jpg
+
+- outlet: The Economist
+  title: Wearable devices measure a growing array of health indicators
+  year: 2022
+  url: https://www.economist.com/technology-quarterly/2022/05/02/wearable-devices-measure-a-growing-array-of-health-indicators
+  img: assets/img/talks/economist-logo.png
+  logo: true
+
+- outlet: Fierce Healthcare
+  title: Rising stars in health tech
+  year: 2022
+  url: https://www.fiercehealthcare.com/health-tech/rising-stars-health-tech
+  img: assets/img/talks/fierce-health-logo.png
+  logo: true
+
+- outlet: Forbes
+  title: Massive digital library released to accelerate clinical research
+  year: 2022
+  url: https://www.forbes.com/sites/greglicholai/2022/10/04/massive-digital-library-released-to-accelerate-clinical-research-and-cut-costs/
+  img: assets/img/talks/forbes-library-logo.png
+  logo: true
+
+- outlet: Forbes
+  title: "The future of medicine: smart devices and digital biomarkers"
+  year: 2022
+  url: https://www.forbes.com/sites/ganeskesari/2022/01/31/the-future-of-medicine-fighting-deadly-diseases-with-smart-devices-and-digital-biomarkers/
+  img: assets/img/talks/forbes-future-logo.png
+  logo: true
+
+- outlet: FierceBiotech
+  title: Duke and HumanFirst launch center for digital health tools in clinical trials
+  year: 2021
+  url: https://www.fiercebiotech.com/medtech/humanfirst-duke-launch-center-to-ensure-digital-health-tools-are-up-to-snuff-for-use
+  img: assets/img/talks/fiercebiotech-logo.png
+  logo: true
+
+- outlet: WSJ
+  title: HumanFirst raises $12 million
+  year: 2021
+  url: https://www.wsj.com/articles/humanfirst-raises-12-million-11622547001
+  img: assets/img/talks/wsj-2021-logo.png
+  logo: true
+
+- outlet: TechCrunch
+  title: A new tool from Elektra Labs aims to measure how effective digital therapies are
+  year: 2019
+  url: https://techcrunch.com/2019/11/12/no-one-knows-how-effective-digital-therapies-are-but-a-new-tool-from-elektra-labs-aims-to-change-that/
+  img: assets/img/talks/techcrunch-logo.png
+  logo: true
+
+- outlet: Forbes
+  title: "Digital medicine: digital health, plus evidence, plus humility"
+  year: 2019
+  url: https://www.forbes.com/sites/davidshaywitz/2019/05/18/digital-medicine-digital-health-plus-evidence-plus-humility/
+  img: assets/img/talks/forbes-humility-logo.png
+  logo: true
+
+- outlet: Newsweek
+  title: Personalized health care and AI could improve your life, at the cost of your privacy
+  year: 2019
+  url: https://www.newsweek.com/2019/04/05/personalized-health-care-artificial-intelligence-improve-life-cost-privacy-1368491.html
+  img: assets/img/talks/newsweek-logo.png
+  logo: true
+
+- outlet: Rock Health
+  title: Serve a "tour of duty" in government
+  year: 2019
+  url: https://rockhealth.com/create-meaningful-change-in-healthcare-serve-a-tour-of-duty-in-government/
+  img: assets/img/talks/rockhealth-logo.png
+  logo: true
+
+- outlet: The New York Times
+  title: Getting over stage fright with the help of your smartphone
+  year: 2016
+  url: http://www.nytimes.com/2016/06/09/technology/personaltech/getting-over-stage-fright-with-the-help-of-your-smartphone.html
+  img: assets/img/talks/nytimes.jpg
+
+- outlet: Business Insider
+  title: Harvard Business School students built an app to help you sound more confident
+  year: 2016
+  url: https://www.businessinsider.com/ummo-app-tracks-your-speech-2016-5
+  img: assets/img/talks/businessinsider.jpg
+
+- outlet: Lifehacker
+  title: Ummo analyzes your speech to help improve your public speaking
+  year: 2016
+  url: https://lifehacker.com/ummo-for-iphone-analyzes-your-speech-to-help-improve-yo-1773440382
+  img: assets/img/talks/lifehacker.png
