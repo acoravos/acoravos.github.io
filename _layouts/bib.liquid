@@ -43,7 +43,7 @@
           {% endif %}
           {% include video.liquid path=preview_video_path class="preview z-depth-1 rounded" controls=true %}
         {% elsif entry.preview contains '://' %}
-          <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
+          <img class="preview z-depth-1 rounded" src="{{ entry.preview }}" alt="{{ entry.title | escape }}">
         {% else %}
           {% assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' %}
           {%
@@ -54,7 +54,7 @@
             class="preview z-depth-1 rounded"
             zoomable=true
             avoid_scaling=true
-            alt=entry.preview
+            alt=entry.title
           %}
         {% endif %}
       {% endif %}

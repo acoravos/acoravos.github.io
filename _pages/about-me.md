@@ -22,9 +22,9 @@ I'm a Venture Partner at [Pillar VC](https://www.pillar.vc/), backing and buildi
 - Brain health, from neurotech and psychedelic biotech to the exposome: how our homes and environments shape the brain
 - Women's health across every life stage: fertility, menopause, and longevity
 - Cybersecurity
-- Frontier hardware: robotics, nuclear, semiconductors, and space
+- Frontier hardware: robotics, nuclear, and semiconductors
 
-Through Pillar, I also support [Encode: AI for Science](https://encode.pillar.vc/), a £10.9 million programme that Pillar runs with the UK's Advanced Research + Invention Agency (ARIA), backing AI/ML engineers as they advance frontier science and build new ventures. Its second cohort launched in London in September 2026. I'm hiring a venture associate in the UK to join me.
+Through Pillar, I also support [Encode: AI for Science](https://encode.pillar.vc/), a £10.9 million programme that Pillar runs with the UK's Advanced Research + Invention Agency (ARIA), backing AI/ML engineers as they advance frontier science and build new ventures. Its second cohort launched in London in September 2026. I'm hiring a [venture associate in the UK](https://www.pillar.vc/careers/venture-associate-bio-frontier-tech-uk/) to join me.
 
 I serve as an Expert in Residence (XIR) at [ARPA-H](https://arpa-h.gov/), the Advanced Research Projects Agency for Health, through Digitalis Commons. I focus on [DIGIHEALS](https://arpa-h.gov/research-and-funding/programs/digiheals), the Digital Health Security initiative, designed to protect the U.S. health care system's electronic infrastructure from cyberattacks. I also advise founders and execs, VC funds, and research orgs through my firm, Grey Heron Global.
 

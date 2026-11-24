@@ -6,6 +6,7 @@ permalink: /
 profile:
   align: right
   image: prof_pic.jpg
+  image_alt: Portrait of Andy Coravos
   image_circular: false
   more_info: >
     <p class="photo-credit">Portrait by <a href="https://bigaaron.com/">Aaron Kotowski</a>, h/t <a href="https://www.kminshew.com/">kmin</a></p>
@@ -28,12 +29,12 @@ I co-founded HumanFirst and served as CEO for seven years. We designed Atlas, an
 
 **What I'm working on now**
 
-- **Venture Partner at [Pillar VC](https://www.pillar.vc/).** Backing and building companies in AI-native bio, brain health, women's health, cybersecurity, and frontier hardware. I'm hiring a venture associate in the UK to work with me
+- **Venture Partner at [Pillar VC](https://www.pillar.vc/).** Backing and building companies in AI-native bio, brain health, women's health, cybersecurity, and frontier hardware. I'm hiring a [venture associate in the UK](https://www.pillar.vc/careers/venture-associate-bio-frontier-tech-uk/) to work with me
 - **Angel investing.** ~85 companies over twelve years, plus several funds. See [investments](/investments/)
 - **Research and writing.** [Peer-reviewed work](/publications/) and [essays, handbooks and field notes](/writing/), including two open-access handbooks with the [Astera Institute](https://astera.org/inside-baseball-the-founders-guide-to-funding-health-and-science-organizations/)
 - **Making things.** Photography, comics, and music. See [projects](/projects/)
 
-Want to learn more about collaborating with me? Check out my [User Guide](https://docs.google.com/document/d/18zp1nivvPwWYbo9BVZLoauRILhvOEGdpMGC3aGkaVU8/edit).
+Want to learn more about collaborating with me? Check out my [user guide](https://docs.google.com/document/d/18zp1nivvPwWYbo9BVZLoauRILhvOEGdpMGC3aGkaVU8/edit?tab=t.0).
 
 I live in Brooklyn with my Irishman, though you'll often find me in Dublin and London.
 
